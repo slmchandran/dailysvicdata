@@ -5,28 +5,5 @@
    "initialStock": 14950
   }
  },
- "entries": [
-  {
-   "id": 1794926266321,
-   "batch": "Layer 1",
-   "date": "2026-11-17",
-   "weekDay": "76.5",
-   "mortality": 4,
-   "openingEgg": 407,
-   "goodEgg": 0,
-   "damageCollected": 0,
-   "merchants": [
-    {
-     "name": "Venkateswara EC",
-     "good": 420,
-     "small": 4,
-     "damage": 3,
-     "double": 0,
-     "dirty": 0
-    }
-   ],
-   "closingEgg": 369,
-   "feedPrepared": 0
-  }
- ]
+ "entries": []
 }
