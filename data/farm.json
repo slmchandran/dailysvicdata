@@ -274,6 +274,51 @@
      "med": ""
     }
    ]
+  },
+  "2026-11-16": {
+   "date": "2026-11-16",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ]
   }
  }
 }
