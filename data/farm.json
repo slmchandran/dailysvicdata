@@ -117,9 +117,9 @@
   "19": {
    "batchNumber": "19",
    "breed": "Bovens",
-   "stage": "Chick",
+   "stage": "Layer 3",
    "startDate": "2025-12-30",
-   "shed": "",
+   "shed": "Layer 3",
    "chick": {
     "hens": 15725,
     "mortality": "",
@@ -135,7 +135,7 @@
    },
    "layer": {
     "startDate": "",
-    "hens": "",
+    "hens": 15496,
     "cullDate": "",
     "culledHens": "",
     "mortality": "",
