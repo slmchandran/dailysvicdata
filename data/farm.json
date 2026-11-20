@@ -29,35 +29,6 @@
    "feedPrepared": 0
   }
  ],
- "batches": {
-  "15": {
-   "batchNumber": "15",
-   "breed": "Bovens",
-   "stage": "Layer 1",
-   "startDate": "2024-11-04",
-   "shed": "Layer 1",
-   "chick": {
-    "hens": 15700,
-    "mortality": "",
-    "cost": "",
-    "supplier": "SkyLark Hatcheries",
-    "vaccines": []
-   },
-   "grower": {
-    "startDate": "",
-    "hens": "",
-    "mortality": "",
-    "vaccines": []
-   },
-   "layer": {
-    "startDate": "",
-    "hens": 15000,
-    "cullDate": "",
-    "culledHens": "",
-    "mortality": "",
-    "medicines": []
-   }
-  },
   "16": {
    "batchNumber": "16",
    "breed": "Bovens",
