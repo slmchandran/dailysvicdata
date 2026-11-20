@@ -89,9 +89,9 @@
   "15a": {
    "batchNumber": "15a",
    "breed": "Bovens",
-   "stage": "Chick",
+   "stage": "Layer 6",
    "startDate": "2024-11-04",
-   "shed": "",
+   "shed": "Layer 6",
    "chick": {
     "hens": 15700,
     "mortality": "",
