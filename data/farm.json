@@ -142,6 +142,34 @@
     "medicines": []
    }
   },
+  "20": {
+   "batchNumber": "20",
+   "breed": "Bovens",
+   "stage": "Chick",
+   "startDate": "2026-05-14",
+   "shed": "",
+   "chick": {
+    "hens": 16200,
+    "mortality": "",
+    "cost": "",
+    "supplier": "",
+    "vaccines": []
+   },
+   "grower": {
+    "startDate": "",
+    "hens": "",
+    "mortality": "",
+    "vaccines": []
+   },
+   "layer": {
+    "startDate": "",
+    "hens": "",
+    "cullDate": "",
+    "culledHens": "",
+    "mortality": "",
+    "medicines": []
+   }
+  },
   "15a": {
    "batchNumber": "15a",
    "breed": "Bovens",
