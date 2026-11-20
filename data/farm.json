@@ -179,8 +179,8 @@
    "chick": {
     "hens": 16350,
     "mortality": "",
-    "cost": "",
-    "supplier": "",
+    "cost": 49,
+    "supplier": "Skylark",
     "vaccines": []
    },
    "grower": {
