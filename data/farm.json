@@ -145,9 +145,9 @@
   "20": {
    "batchNumber": "20",
    "breed": "Bovens",
-   "stage": "Chick",
+   "stage": "Layer 4",
    "startDate": "2026-05-14",
-   "shed": "",
+   "shed": "Layer 4",
    "chick": {
     "hens": 16200,
     "mortality": "",
