@@ -86,6 +86,34 @@
     "medicines": []
    }
   },
+  "18": {
+   "batchNumber": "18",
+   "breed": "Bovens",
+   "stage": "Layer 2",
+   "startDate": "2025-08-27",
+   "shed": "Layer 2",
+   "chick": {
+    "hens": 15700,
+    "mortality": "",
+    "cost": "",
+    "supplier": "Skylark Hatchery",
+    "vaccines": []
+   },
+   "grower": {
+    "startDate": "",
+    "hens": "",
+    "mortality": "",
+    "vaccines": []
+   },
+   "layer": {
+    "startDate": "",
+    "hens": 14586,
+    "cullDate": "",
+    "culledHens": "",
+    "mortality": "",
+    "medicines": []
+   }
+  },
   "15a": {
    "batchNumber": "15a",
    "breed": "Bovens",
