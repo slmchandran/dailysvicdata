@@ -37,10 +37,10 @@
    "startDate": "2024-11-04",
    "shed": "Layer 1",
    "chick": {
-    "hens": 15000,
+    "hens": 15700,
     "mortality": "",
     "cost": "",
-    "supplier": "",
+    "supplier": "SkyLark Hatcheries",
     "vaccines": []
    },
    "grower": {
