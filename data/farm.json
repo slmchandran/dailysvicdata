@@ -790,6 +790,51 @@
      "med": ""
     }
    ]
+  },
+  "2026-11-21": {
+   "date": "2026-11-21",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "3",
+     "med": "Vetmulin 2 kg, Basix NF 650g (13 of 13 Ton)"
+    },
+    {
+     "name": "Layer 4",
+     "tons": "3",
+     "med": "Zagro Tiazin 2kg, OxyZag 750g ( 3 of 12 Ton)"
+    },
+    {
+     "name": "Layer 5",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ]
   }
  },
  "sheds": {
