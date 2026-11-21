@@ -510,6 +510,13 @@
    "es": 175,
    "ne": 461,
    "size": "Big size"
+  },
+  "2026-11-21|Layer 4": {
+   "date": "2026-11-21",
+   "layer": "Layer 4",
+   "es": 492,
+   "ne": 477,
+   "size": "Small"
   }
  },
  "closing": {
