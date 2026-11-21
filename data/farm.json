@@ -604,6 +604,15 @@
    "cullDate": "",
    "culledHens": "",
    "updatedAt": "2026-11-21T13:17:44.386Z"
+  },
+  "Layer 5": {
+   "shed": "Layer 5",
+   "batchNumber": "16",
+   "startDate": "2025-02-17",
+   "initialHens": 14016,
+   "cullDate": "",
+   "culledHens": "",
+   "updatedAt": "2026-11-21T13:18:13.106Z"
   }
  },
  "mortality": {},
