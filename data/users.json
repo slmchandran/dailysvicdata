@@ -1,5 +1,12 @@
 {
- "users": {},
+ "users": {
+  "gokul": {
+   "name": "gokul",
+   "salt": "6c9233d107a3e3b1",
+   "hash": "9dd13df5e15412c5d29ca102b95c01d2c45d73ed6a5978fd92fbd25e9c44cbf8",
+   "created": "2026-11-21"
+  }
+ },
  "admin": {
   "salt": "ad5a92522b2cf89b",
   "hash": "44db4b08c08bbe15ffc0ae0a4e1452229a040af0ee53dd42c0392132c8dac3bb"
