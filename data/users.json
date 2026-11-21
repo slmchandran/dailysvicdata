@@ -11,6 +11,12 @@
    "salt": "d72e64bf7eef89ec",
    "hash": "3974eb0a4e2664565826d89058348cbf59e5390c4c120c4629d3173dfea2c3ca",
    "created": "2026-11-21"
+  },
+  "appa": {
+   "name": "appa",
+   "salt": "b6e465c6f3ebaa42",
+   "hash": "b07b65bfde23a587d074940ca9594410391de1c4824b560bbaef1c99ed09b3a0",
+   "created": "2026-11-21"
   }
  },
  "admin": {
