@@ -277,6 +277,16 @@
    "small": 0,
    "dirty": 0,
    "damage": 0
+  },
+  "2026-11-19|Layer 3|mwqg4cjxau7i": {
+   "id": "mwqg4cjxau7i",
+   "date": "2026-11-19",
+   "layer": "Layer 3",
+   "name": "Venkateswara EC",
+   "good": 100,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0
   }
  },
  "stock": {
