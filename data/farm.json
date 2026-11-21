@@ -413,6 +413,13 @@
    "es": 199,
    "ne": 458,
    "size": "Big size"
+  },
+  "2026-11-16|Layer 2": {
+   "date": "2026-11-16",
+   "layer": "Layer 2",
+   "es": 232,
+   "ne": 428,
+   "size": "Big size"
   }
  },
  "closing": {},
