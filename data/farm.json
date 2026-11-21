@@ -503,6 +503,13 @@
    "es": 659,
    "ne": 419,
    "size": "Big size"
+  },
+  "2026-11-21|Layer 3": {
+   "date": "2026-11-21",
+   "layer": "Layer 3",
+   "es": 175,
+   "ne": 461,
+   "size": "Big size"
   }
  },
  "closing": {
