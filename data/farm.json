@@ -580,12 +580,12 @@
   },
   "Layer 2": {
    "shed": "Layer 2",
-   "batchNumber": "16",
+   "batchNumber": "18",
    "startDate": "2025-02-17",
    "initialHens": 15700,
    "cullDate": "",
    "culledHens": "",
-   "updatedAt": "2026-11-21T13:13:20.188Z"
+   "updatedAt": "2026-11-21T13:14:11.387Z"
   }
  },
  "mortality": {},
