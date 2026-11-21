@@ -747,6 +747,12 @@
    "date": "2026-11-21",
    "batch": "19",
    "mortality": 1
+  },
+  "2026-11-21|Layer 5": {
+   "shed": "Layer 5",
+   "date": "2026-11-21",
+   "batch": "16",
+   "mortality": 3
   }
  },
  "leave": {
