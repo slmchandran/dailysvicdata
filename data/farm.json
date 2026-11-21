@@ -573,10 +573,10 @@
    "shed": "Layer 6",
    "batchNumber": "15",
    "startDate": "2024-11-04",
-   "initialHens": 15700,
+   "initialHens": 15000,
    "cullDate": "",
    "culledHens": "",
-   "updatedAt": "2026-11-21T13:18:52.326Z"
+   "updatedAt": "2026-11-21T13:20:34.139Z"
   },
   "Layer 2": {
    "shed": "Layer 2",
