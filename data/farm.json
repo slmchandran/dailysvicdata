@@ -633,7 +633,14 @@
    "updatedAt": "2026-11-21T13:22:12.272Z"
   }
  },
- "mortality": {},
+ "mortality": {
+  "2026-11-17|Layer 1": {
+   "shed": "Layer 1",
+   "date": "2026-11-17",
+   "batch": "17",
+   "mortality": 2
+  }
+ },
  "leave": {
   "2026-11-15|mwqfdhj3kwhq": {
    "id": "mwqfdhj3kwhq",
