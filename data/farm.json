@@ -409,9 +409,11 @@
    "size": "Big size"
   },
   "2026-11-18|Layer 5": {
+   "date": "2026-11-18",
+   "layer": "Layer 5",
    "es": 659,
    "ne": 355,
-   "de": 0
+   "size": "Big size"
   },
   "2026-11-19|Layer 5": {
    "date": "2026-11-19",
