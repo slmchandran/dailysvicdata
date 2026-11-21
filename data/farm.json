@@ -406,6 +406,13 @@
    "es": 2573,
    "ne": 470,
    "size": "Small"
+  },
+  "2026-11-16|Layer 3": {
+   "date": "2026-11-16",
+   "layer": "Layer 3",
+   "es": 199,
+   "ne": 458,
+   "size": "Big size"
   }
  },
  "closing": {},
