@@ -622,6 +622,15 @@
    "cullDate": "",
    "culledHens": "",
    "updatedAt": "2026-11-21T13:20:04.856Z"
+  },
+  "Grower": {
+   "shed": "Grower",
+   "batchNumber": "21",
+   "startDate": "2026-08-12",
+   "initialHens": 16000,
+   "cullDate": "",
+   "culledHens": "",
+   "updatedAt": "2026-11-21T13:22:12.272Z"
   }
  },
  "mortality": {},
