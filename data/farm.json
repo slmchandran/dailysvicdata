@@ -227,7 +227,18 @@
    }
   }
  },
- "dispatch": {},
+ "dispatch": {
+  "2026-11-21|Layer 5|mwqg29wf2zco": {
+   "id": "mwqg29wf2zco",
+   "date": "2026-11-21",
+   "layer": "Layer 5",
+   "name": "Venkateswara EC",
+   "good": 230,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0
+  }
+ },
  "stock": {
   "2026-11-16|Layer 1": {
    "es": 7,
