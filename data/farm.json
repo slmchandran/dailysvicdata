@@ -567,5 +567,15 @@
     }
    ]
   }
+ },
+ "sheds": {},
+ "mortality": {},
+ "leave": {
+  "2026-11-15|mwqfdhj3kwhq": {
+   "id": "mwqfdhj3kwhq",
+   "date": "2026-11-15",
+   "name": "Vanitha",
+   "rep": "Gulam/Sirul"
+  }
  }
 }
