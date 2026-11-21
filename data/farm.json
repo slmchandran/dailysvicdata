@@ -568,7 +568,17 @@
    ]
   }
  },
- "sheds": {},
+ "sheds": {
+  "Layer 6": {
+   "shed": "Layer 6",
+   "batchNumber": "15",
+   "startDate": "2024-11-04",
+   "initialHens": 15700,
+   "cullDate": "",
+   "culledHens": "",
+   "updatedAt": "2026-11-21T13:12:33.205Z"
+  }
+ },
  "mortality": {},
  "leave": {
   "2026-11-15|mwqfdhj3kwhq": {
