@@ -5,6 +5,12 @@
    "salt": "6c9233d107a3e3b1",
    "hash": "9dd13df5e15412c5d29ca102b95c01d2c45d73ed6a5978fd92fbd25e9c44cbf8",
    "created": "2026-11-21"
+  },
+  "chandran": {
+   "name": "chandran",
+   "salt": "d72e64bf7eef89ec",
+   "hash": "3974eb0a4e2664565826d89058348cbf59e5390c4c120c4629d3173dfea2c3ca",
+   "created": "2026-11-21"
   }
  },
  "admin": {
