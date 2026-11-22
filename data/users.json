@@ -4,7 +4,8 @@
    "name": "gokul",
    "salt": "6c9233d107a3e3b1",
    "hash": "9dd13df5e15412c5d29ca102b95c01d2c45d73ed6a5978fd92fbd25e9c44cbf8",
-   "created": "2026-11-21"
+   "created": "2026-11-21",
+   "canPrice": true
   },
   "chandran": {
    "name": "chandran",
