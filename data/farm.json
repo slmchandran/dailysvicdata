@@ -1099,7 +1099,30 @@
  },
  "maint": {},
  "veh": {},
- "sales": {},
+ "sales": {
+  "2026-11-22|mwrkqsaxea87": {
+   "id": "mwrkqsaxea87",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:27:45.976Z",
+    "_by": "admin"
+   },
+   "good": 1,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "amt": 180,
+   "_at": "2026-11-22T08:27:57.494Z",
+   "_by": "gokul"
+  }
+ },
  "prices": {
   "current": {
    "good": 180,
