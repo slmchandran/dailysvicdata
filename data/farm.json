@@ -1179,6 +1179,14 @@
    "date": "2026-11-21",
    "batch": "15",
    "mortality": 7
+  },
+  "2026-11-22|Layer 3": {
+   "shed": "Layer 3",
+   "date": "2026-11-22",
+   "batch": "19",
+   "mortality": 1,
+   "_at": "2026-11-22T10:18:49.693Z",
+   "_by": "gokul"
   }
  },
  "leave": {
