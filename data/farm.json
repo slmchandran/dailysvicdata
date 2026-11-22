@@ -621,6 +621,16 @@
    "es": 383,
    "ne": 378,
    "size": "Big size"
+  },
+  "2026-11-22|Layer 3": {
+   "date": "2026-11-22",
+   "layer": "Layer 3",
+   "ins": true,
+   "es": 86,
+   "ne": 465,
+   "size": "Big size",
+   "_at": "2026-11-22T10:48:24.773Z",
+   "_by": "gokul"
   }
  },
  "closing": {
