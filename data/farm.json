@@ -281,6 +281,18 @@
    "small": 0,
    "dirty": 0,
    "damage": 0
+  },
+  "2026-11-22|Layer 1|mwrntrtpsbd3": {
+   "id": "mwrntrtpsbd3",
+   "date": "2026-11-22",
+   "layer": "Layer 1",
+   "name": "Venkateswara EC",
+   "good": 410,
+   "small": 1,
+   "dirty": 5,
+   "damage": 3,
+   "_at": "2026-11-22T09:59:53.889Z",
+   "_by": "gokul"
   }
  },
  "stock": {
