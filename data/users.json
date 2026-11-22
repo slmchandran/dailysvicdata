@@ -11,7 +11,8 @@
    "name": "chandran",
    "salt": "d72e64bf7eef89ec",
    "hash": "3974eb0a4e2664565826d89058348cbf59e5390c4c120c4629d3173dfea2c3ca",
-   "created": "2026-11-21"
+   "created": "2026-11-21",
+   "canPrice": true
   },
   "appa": {
    "name": "appa",
