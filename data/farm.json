@@ -1143,6 +1143,28 @@
    "amt": 400,
    "_at": "2026-11-22T08:40:18.790Z",
    "_by": "gokul"
+  },
+  "2026-11-22|mwrld3w4kqyb": {
+   "id": "mwrld3w4kqyb",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 4,
+   "damage": 0,
+   "amt": 560,
+   "_at": "2026-11-22T08:45:21.887Z",
+   "_by": "chandran"
   }
  },
  "prices": {
