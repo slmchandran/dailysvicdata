@@ -17,6 +17,12 @@
    "salt": "b6e465c6f3ebaa42",
    "hash": "b07b65bfde23a587d074940ca9594410391de1c4824b560bbaef1c99ed09b3a0",
    "created": "2026-11-21"
+  },
+  "nava": {
+   "name": "nava",
+   "salt": "e3c4c82d13855384",
+   "hash": "31b25267525650abfe257a1523c12e51a091e41ecd32e5860f8dbd22be7a4705",
+   "created": "2026-11-22"
   }
  },
  "admin": {
