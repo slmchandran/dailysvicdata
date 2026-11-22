@@ -1027,7 +1027,9 @@
    "initialHens": 15496,
    "cullDate": "",
    "culledHens": "",
-   "updatedAt": "2026-11-21T14:26:34.935Z"
+   "updatedAt": "2026-11-22T10:18:49.685Z",
+   "_at": "2026-11-22T10:18:49.685Z",
+   "_by": "gokul"
   },
   "Grower": {
    "shed": "Grower",
