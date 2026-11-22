@@ -1779,5 +1779,36 @@
    "_at": "2026-11-22T11:29:37.215Z",
    "_by": "admin"
   }
+ },
+ "cap": {
+  "Layer 1": {
+   "shed": "Layer 1",
+   "cages": 154,
+   "birds": 5,
+   "layout": [
+    6,
+    6,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    6,
+    6,
+    null,
+    null
+   ],
+   "_at": "2026-11-22T13:29:46.694Z",
+   "_by": "admin"
+  }
  }
 }
