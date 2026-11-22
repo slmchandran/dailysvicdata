@@ -1098,5 +1098,17 @@
   }
  },
  "maint": {},
- "veh": {}
+ "veh": {},
+ "sales": {},
+ "prices": {
+  "current": {
+   "good": 180,
+   "doubles": 200,
+   "small": 110,
+   "dirty": 140,
+   "damage": 80,
+   "_at": "2026-11-22T08:27:45.976Z",
+   "_by": "admin"
+  }
+ }
 }
