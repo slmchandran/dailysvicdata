@@ -1407,6 +1407,28 @@
    "amt": 420,
    "_at": "2026-11-22T09:21:17.629Z",
    "_by": "chandran"
+  },
+  "2026-11-22|mwrmnbqo0x4c": {
+   "id": "mwrmnbqo0x4c",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 5,
+   "damage": 0,
+   "amt": 700,
+   "_at": "2026-11-22T09:21:17.636Z",
+   "_by": "chandran"
   }
  },
  "prices": {
