@@ -1925,6 +1925,35 @@
    ],
    "_at": "2026-11-22T13:33:45.670Z",
    "_by": "admin"
+  },
+  "Layer 6": {
+   "shed": "Layer 6",
+   "cages": 96,
+   "birds": 8,
+   "layout": [
+    9,
+    9,
+    9,
+    9,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    9,
+    9,
+    9,
+    9
+   ],
+   "_at": "2026-11-22T13:34:04.120Z",
+   "_by": "admin"
   }
  }
 }
