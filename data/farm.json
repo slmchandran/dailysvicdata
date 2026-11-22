@@ -829,6 +829,53 @@
      "med": ""
     }
    ]
+  },
+  "2026-11-22": {
+   "date": "2026-11-22",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-22T04:33:59.962Z",
+   "_by": "gokul"
   }
  },
  "sheds": {
