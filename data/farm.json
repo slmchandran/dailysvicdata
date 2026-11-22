@@ -1194,7 +1194,18 @@
   }
  },
  "maint": {},
- "veh": {},
+ "veh": {
+  "2026-11-22|mwrntru3yl2v": {
+   "id": "mwrntru3yl2v",
+   "date": "2026-11-22",
+   "number": "TN93B4856",
+   "dir": "out",
+   "material": "DDGS",
+   "weight": 1060,
+   "_at": "2026-11-22T10:14:07.550Z",
+   "_by": "gokul"
+  }
+ },
  "sales": {
   "2026-11-22|mwrl6adr7109": {
    "id": "mwrl6adr7109",
