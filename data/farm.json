@@ -293,6 +293,18 @@
    "damage": 0,
    "_at": "2026-11-22T07:59:23.382Z",
    "_by": "chandran"
+  },
+  "2026-11-22|Layer 2|mwrjq6lqiyvz": {
+   "id": "mwrjq6lqiyvz",
+   "date": "2026-11-22",
+   "layer": "Layer 2",
+   "name": "Venkateswara EC",
+   "good": 200,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "_at": "2026-11-22T07:59:33.989Z",
+   "_by": "chandran"
   }
  },
  "stock": {
