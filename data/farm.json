@@ -1983,6 +1983,39 @@
    ],
    "_at": "2026-11-22T13:34:28.704Z",
    "_by": "admin"
+  },
+  "Grower": {
+   "shed": "Grower",
+   "cages": 110,
+   "birds": 6,
+   "layout": [
+    7,
+    7,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    7,
+    7,
+    null,
+    null
+   ],
+   "_at": "2026-11-22T13:34:53.870Z",
+   "_by": "admin"
   }
  }
 }
