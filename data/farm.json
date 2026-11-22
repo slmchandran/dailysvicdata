@@ -713,6 +713,14 @@
    "small": 22,
    "dirty": 0,
    "doubles": 3
+  },
+  "2026-11-22": {
+   "damage": 20,
+   "small": 15,
+   "dirty": 1,
+   "doubles": 6,
+   "_at": "2026-11-22T11:39:43.403Z",
+   "_by": "gokul"
   }
  },
  "feed": {
