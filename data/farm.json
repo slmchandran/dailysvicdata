@@ -377,6 +377,18 @@
    "damage": 10,
    "_at": "2026-11-22T10:11:22.748Z",
    "_by": "gokul"
+  },
+  "2026-11-23|Layer 4|mwsvleivjpbr": {
+   "id": "mwsvleivjpbr",
+   "date": "2026-11-23",
+   "layer": "Layer 4",
+   "name": "VR",
+   "good": 800,
+   "small": 0,
+   "dirty": 0,
+   "damage": 1,
+   "_at": "2026-11-23T06:20:04.837Z",
+   "_by": "gokul"
   }
  },
  "stock": {
