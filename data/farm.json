@@ -1821,6 +1821,29 @@
    "amt": 160,
    "_at": "2026-11-22T10:17:45.296Z",
    "_by": "gokul"
+  },
+  "2026-11-23|mwt0c88ffl5k": {
+   "id": "mwt0c88ffl5k",
+   "date": "2026-11-23",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 5,
+   "amt": 400,
+   "_at": "2026-11-23T08:32:23.842Z",
+   "_by": "gokul"
   }
  },
  "prices": {
