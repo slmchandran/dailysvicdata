@@ -389,6 +389,18 @@
    "damage": 1,
    "_at": "2026-11-23T06:20:04.837Z",
    "_by": "gokul"
+  },
+  "2026-11-23|Layer 1|mwt87oyk1tct": {
+   "id": "mwt87oyk1tct",
+   "date": "2026-11-23",
+   "layer": "Layer 1",
+   "name": "NP Egg Centre",
+   "good": 150,
+   "small": 0,
+   "dirty": 2,
+   "damage": 1,
+   "_at": "2026-11-23T12:14:10.839Z",
+   "_by": "gokul"
   }
  },
  "stock": {
