@@ -1653,6 +1653,14 @@
    "mortality": 3,
    "_at": "2026-11-24T12:31:42.325Z",
    "_by": "gokul"
+  },
+  "2026-11-24|Grower": {
+   "shed": "Grower",
+   "date": "2026-11-24",
+   "batch": "21",
+   "mortality": 1,
+   "_at": "2026-11-24T12:31:42.345Z",
+   "_by": "gokul"
   }
  },
  "leave": {
