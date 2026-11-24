@@ -1618,6 +1618,16 @@
    "weight": 26400,
    "_at": "2026-11-24T08:18:00.608Z",
    "_by": "gokul"
+  },
+  "2026-11-24|mwuhpdt4cw8g": {
+   "id": "mwuhpdt4cw8g",
+   "date": "2026-11-24",
+   "number": "TN93B4856",
+   "dir": "out",
+   "material": "DDGS",
+   "weight": 2000,
+   "_at": "2026-11-24T09:27:08.238Z",
+   "_by": "gokul"
   }
  },
  "sales": {
