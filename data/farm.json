@@ -2196,6 +2196,29 @@
    "amt": 440,
    "_at": "2026-11-24T09:35:44.607Z",
    "_by": "gokul"
+  },
+  "2026-11-24|mwui1sro5x85": {
+   "id": "mwui1sro5x85",
+   "date": "2026-11-24",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 1,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "amt": 200,
+   "_at": "2026-11-24T09:35:52.608Z",
+   "_by": "gokul"
   }
  },
  "prices": {
