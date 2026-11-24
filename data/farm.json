@@ -1551,6 +1551,16 @@
    "weight": 5000,
    "_at": "2026-11-23T12:17:55.892Z",
    "_by": "gokul"
+  },
+  "2026-11-24|mwu7d4kc2em8": {
+   "id": "mwu7d4kc2em8",
+   "date": "2026-11-24",
+   "number": "TN45AR2846",
+   "dir": "in",
+   "material": "CALCITE",
+   "weight": 30000,
+   "_at": "2026-11-24T04:38:12.101Z",
+   "_by": "gokul"
   }
  },
  "sales": {
