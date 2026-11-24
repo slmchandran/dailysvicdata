@@ -1628,6 +1628,16 @@
    "weight": 2000,
    "_at": "2026-11-24T09:27:13.494Z",
    "_by": "gokul"
+  },
+  "2026-11-24|mwuhrke5v036": {
+   "id": "mwuhrke5v036",
+   "date": "2026-11-24",
+   "number": "TN93B4856",
+   "dir": "in",
+   "material": "DORB",
+   "weight": 12000,
+   "_at": "2026-11-24T09:28:47.259Z",
+   "_by": "gokul"
   }
  },
  "sales": {
