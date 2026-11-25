@@ -485,6 +485,18 @@
    "damage": 2,
    "_at": "2026-11-25T10:14:01.697Z",
    "_by": "gokul"
+  },
+  "2026-11-25|Layer 3|mwvyvb7xa2py": {
+   "id": "mwvyvb7xa2py",
+   "date": "2026-11-25",
+   "layer": "Layer 3",
+   "name": "Ganapathy Egg Center",
+   "good": 5,
+   "small": 10,
+   "dirty": 0,
+   "damage": 0,
+   "_at": "2026-11-25T10:15:08.512Z",
+   "_by": "gokul"
   }
  },
  "stock": {
