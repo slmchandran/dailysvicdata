@@ -425,6 +425,18 @@
    "damage": 2.5,
    "_at": "2026-11-25T10:07:56.494Z",
    "_by": "gokul"
+  },
+  "2026-11-25|Layer 2|mwvyn2prqg9w": {
+   "id": "mwvyn2prqg9w",
+   "date": "2026-11-25",
+   "layer": "Layer 2",
+   "name": "Venkateswara EC",
+   "good": 420,
+   "small": 1,
+   "dirty": 7.5,
+   "damage": 1.5,
+   "_at": "2026-11-25T10:10:36.803Z",
+   "_by": "gokul"
   }
  },
  "stock": {
