@@ -1306,6 +1306,53 @@
    ],
    "_at": "2026-11-24T04:40:56.019Z",
    "_by": "gokul"
+  },
+  "2026-11-25": {
+   "date": "2026-11-25",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "3",
+     "med": "Tiazin-2kg,Oxyzag 150-750g,9ton, Nulay 1/2 kg"
+    },
+    {
+     "name": "Layer 5",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T06:23:00.435Z",
+   "_by": "gokul"
   }
  },
  "sheds": {
