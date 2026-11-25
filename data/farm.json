@@ -1895,6 +1895,16 @@
    "weight": 24980,
    "_at": "2026-11-24T09:43:36.049Z",
    "_by": "gokul"
+  },
+  "2026-11-25|mwvzq1cfirb3": {
+   "id": "mwvzq1cfirb3",
+   "date": "2026-11-25",
+   "number": "TN77R4987",
+   "dir": "in",
+   "material": "MAIZE",
+   "weight": 1900,
+   "_at": "2026-11-25T10:38:59.383Z",
+   "_by": "gokul"
   }
  },
  "sales": {
