@@ -2134,6 +2134,53 @@
    ],
    "_at": "2026-11-25T15:36:35.618Z",
    "_by": "admin"
+  },
+  "2026-11-15": {
+   "date": "2026-11-15",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "3",
+     "med": "Vetmulin: 2kg, Basix NF 650g,3 of 12 Ton"
+    },
+    {
+     "name": "Layer 4",
+     "tons": "3",
+     "med": "Grower feed"
+    },
+    {
+     "name": "Layer 5",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "2",
+     "med": "Grower Feed (Nulay:1/2kg, medicine 11 of 24 Ton) WK 14"
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.620Z",
+   "_by": "admin"
   }
  },
  "sheds": {
