@@ -2087,6 +2087,53 @@
    ],
    "_at": "2026-11-25T15:36:35.615Z",
    "_by": "admin"
+  },
+  "2026-11-14": {
+   "date": "2026-11-14",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "1",
+     "med": "Grower Feed (Nulay:1/2kg, medicine 9 of 24 Ton) WK 14"
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.618Z",
+   "_by": "admin"
   }
  },
  "sheds": {
