@@ -1570,6 +1570,53 @@
    ],
    "_at": "2026-11-25T15:36:35.569Z",
    "_by": "admin"
+  },
+  "2026-11-02": {
+   "date": "2026-11-02",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "3",
+     "med": "2 kg Vetmulin, 1/2kg Augumycin, 1/2 kg Basix nf, 9 of 12 Ton"
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "3",
+     "med": "Chick Feed (Grower Shed)"
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.577Z",
+   "_by": "admin"
   }
  },
  "sheds": {
