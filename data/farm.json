@@ -1899,6 +1899,53 @@
    ],
    "_at": "2026-11-25T15:36:35.602Z",
    "_by": "admin"
+  },
+  "2026-11-10": {
+   "date": "2026-11-10",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "3",
+     "med": "2 kg Vetmulin, 1kg Augumycin,12 of 12 Ton"
+    },
+    {
+     "name": "Layer 6",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.606Z",
+   "_by": "admin"
   }
  },
  "sheds": {
