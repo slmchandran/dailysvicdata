@@ -1110,22 +1110,22 @@
    "rows": [
     {
      "name": "Layer 1",
-     "tons": "",
+     "tons": "4",
      "med": ""
     },
     {
      "name": "Layer 2",
-     "tons": "2",
+     "tons": "",
      "med": ""
     },
     {
      "name": "Layer 3",
-     "tons": "4",
+     "tons": "",
      "med": ""
     },
     {
      "name": "Layer 4",
-     "tons": "4",
+     "tons": "",
      "med": "Vetmulin 2 kg, Basix NF 650g"
     },
     {
@@ -1135,12 +1135,12 @@
     },
     {
      "name": "Layer 6",
-     "tons": "",
+     "tons": "3",
      "med": ""
     },
     {
      "name": "Grower",
-     "tons": "2",
+     "tons": "",
      "med": ""
     },
     {
@@ -1149,7 +1149,7 @@
      "med": ""
     }
    ],
-   "_at": "2026-11-25T14:33:42.473Z",
+   "_at": "2026-11-25T14:35:10.940Z",
    "_by": "admin"
   },
   "2026-11-17": {
