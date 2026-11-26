@@ -521,6 +521,18 @@
    "damage": 0,
    "_at": "2026-11-26T12:18:36.505Z",
    "_by": "gokul"
+  },
+  "2026-11-26|Layer 5|mwxir4g98lzp": {
+   "id": "mwxir4g98lzp",
+   "date": "2026-11-26",
+   "layer": "Layer 5",
+   "name": "OhmSakthi EC",
+   "good": 250,
+   "small": 1,
+   "dirty": 1,
+   "damage": 1,
+   "_at": "2026-11-26T12:19:10.991Z",
+   "_by": "gokul"
   }
  },
  "stock": {
