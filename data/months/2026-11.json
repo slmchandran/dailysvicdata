@@ -1153,6 +1153,16 @@
    "size": "Big size",
    "_at": "2026-11-26T16:02:20.120Z",
    "_by": "admin"
+  },
+  "2026-11-26|Layer 5": {
+   "date": "2026-11-26",
+   "layer": "Layer 5",
+   "ins": true,
+   "es": 450,
+   "ne": 335,
+   "size": "Big size",
+   "_at": "2026-11-26T16:02:20.131Z",
+   "_by": "admin"
   }
  },
  "closing": {
