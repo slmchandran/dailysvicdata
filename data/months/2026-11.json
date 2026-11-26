@@ -1,0 +1,3450 @@
+{
+ "mortality": {
+  "2026-11-17|Layer 1": {
+   "shed": "Layer 1",
+   "date": "2026-11-17",
+   "batch": "17",
+   "mortality": 2
+  },
+  "2026-11-17|Layer 2": {
+   "shed": "Layer 2",
+   "date": "2026-11-17",
+   "batch": "18",
+   "mortality": 2
+  },
+  "2026-11-17|Layer 3": {
+   "shed": "Layer 3",
+   "date": "2026-11-17",
+   "batch": "19",
+   "mortality": 1
+  },
+  "2026-11-17|Layer 5": {
+   "shed": "Layer 5",
+   "date": "2026-11-17",
+   "batch": "16",
+   "mortality": 5
+  },
+  "2026-11-17|Layer 6": {
+   "shed": "Layer 6",
+   "date": "2026-11-17",
+   "batch": "15",
+   "mortality": 4
+  },
+  "2026-11-18|Layer 1": {
+   "shed": "Layer 1",
+   "date": "2026-11-18",
+   "batch": "17",
+   "mortality": 2
+  },
+  "2026-11-18|Layer 2": {
+   "shed": "Layer 2",
+   "date": "2026-11-18",
+   "batch": "18",
+   "mortality": 1
+  },
+  "2026-11-18|Layer 3": {
+   "shed": "Layer 3",
+   "date": "2026-11-18",
+   "batch": "19",
+   "mortality": 2
+  },
+  "2026-11-18|Layer 5": {
+   "shed": "Layer 5",
+   "date": "2026-11-18",
+   "batch": "16",
+   "mortality": 5
+  },
+  "2026-11-18|Layer 6": {
+   "shed": "Layer 6",
+   "date": "2026-11-18",
+   "batch": "15",
+   "mortality": 5
+  },
+  "2026-11-19|Layer 1": {
+   "shed": "Layer 1",
+   "date": "2026-11-19",
+   "batch": "17",
+   "mortality": 2
+  },
+  "2026-11-20|Layer 1": {
+   "shed": "Layer 1",
+   "date": "2026-11-20",
+   "batch": "17",
+   "mortality": 2
+  },
+  "2026-11-21|Layer 1": {
+   "shed": "Layer 1",
+   "date": "2026-11-21",
+   "batch": "17",
+   "mortality": 4
+  },
+  "2026-11-21|Layer 2": {
+   "shed": "Layer 2",
+   "date": "2026-11-21",
+   "batch": "18",
+   "mortality": 3
+  },
+  "2026-11-20|Layer 2": {
+   "shed": "Layer 2",
+   "date": "2026-11-20",
+   "batch": "18",
+   "mortality": 1
+  },
+  "2026-11-19|Layer 2": {
+   "shed": "Layer 2",
+   "date": "2026-11-19",
+   "batch": "18",
+   "mortality": 2
+  },
+  "2026-11-19|Layer 3": {
+   "shed": "Layer 3",
+   "date": "2026-11-19",
+   "batch": "19",
+   "mortality": 1
+  },
+  "2026-11-20|Layer 3": {
+   "shed": "Layer 3",
+   "date": "2026-11-20",
+   "batch": "19",
+   "mortality": 2
+  },
+  "2026-11-21|Layer 3": {
+   "shed": "Layer 3",
+   "date": "2026-11-21",
+   "batch": "19",
+   "mortality": 1
+  },
+  "2026-11-21|Layer 5": {
+   "shed": "Layer 5",
+   "date": "2026-11-21",
+   "batch": "16",
+   "mortality": 3
+  },
+  "2026-11-20|Layer 5": {
+   "shed": "Layer 5",
+   "date": "2026-11-20",
+   "batch": "16",
+   "mortality": 5
+  },
+  "2026-11-19|Layer 5": {
+   "shed": "Layer 5",
+   "date": "2026-11-19",
+   "batch": "16",
+   "mortality": 2
+  },
+  "2026-11-21|Layer 6": {
+   "shed": "Layer 6",
+   "date": "2026-11-21",
+   "batch": "15",
+   "mortality": 7
+  },
+  "2026-11-22|Layer 3": {
+   "shed": "Layer 3",
+   "date": "2026-11-22",
+   "batch": "19",
+   "mortality": 1,
+   "_at": "2026-11-22T11:56:46.555Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 4": {
+   "shed": "Layer 4",
+   "date": "2026-11-22",
+   "batch": "20",
+   "mortality": 1,
+   "_at": "2026-11-22T11:56:46.563Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 6": {
+   "shed": "Layer 6",
+   "date": "2026-11-22",
+   "batch": "15",
+   "mortality": 4,
+   "_at": "2026-11-22T11:56:46.581Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 5": {
+   "shed": "Layer 5",
+   "date": "2026-11-22",
+   "batch": "16",
+   "mortality": 4,
+   "_at": "2026-11-22T11:56:46.573Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 1": {
+   "shed": "Layer 1",
+   "date": "2026-11-22",
+   "batch": "17",
+   "mortality": 2,
+   "_at": "2026-11-22T11:56:46.536Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 2": {
+   "shed": "Layer 2",
+   "date": "2026-11-22",
+   "batch": "18",
+   "mortality": 1,
+   "_at": "2026-11-22T11:56:46.545Z",
+   "_by": "gokul"
+  },
+  "2026-11-23|Layer 1": {
+   "shed": "Layer 1",
+   "date": "2026-11-23",
+   "batch": "17",
+   "mortality": 2,
+   "_at": "2026-11-23T15:47:24.091Z",
+   "_by": "admin"
+  },
+  "2026-11-23|Layer 2": {
+   "shed": "Layer 2",
+   "date": "2026-11-23",
+   "batch": "18",
+   "mortality": 3,
+   "_at": "2026-11-23T15:47:24.098Z",
+   "_by": "admin"
+  },
+  "2026-11-23|Layer 3": {
+   "shed": "Layer 3",
+   "date": "2026-11-23",
+   "batch": "19",
+   "mortality": 4,
+   "_at": "2026-11-23T15:47:24.105Z",
+   "_by": "admin"
+  },
+  "2026-11-23|Layer 4": {
+   "shed": "Layer 4",
+   "date": "2026-11-23",
+   "batch": "20",
+   "mortality": 1,
+   "_at": "2026-11-23T15:47:24.110Z",
+   "_by": "admin"
+  },
+  "2026-11-23|Layer 5": {
+   "shed": "Layer 5",
+   "date": "2026-11-23",
+   "batch": "16",
+   "mortality": 2,
+   "_at": "2026-11-23T15:47:24.116Z",
+   "_by": "admin"
+  },
+  "2026-11-23|Layer 6": {
+   "shed": "Layer 6",
+   "date": "2026-11-23",
+   "batch": "15",
+   "mortality": 2,
+   "_at": "2026-11-23T15:47:24.120Z",
+   "_by": "admin"
+  },
+  "2026-11-24|Layer 1": {
+   "shed": "Layer 1",
+   "date": "2026-11-24",
+   "batch": "17",
+   "mortality": 2,
+   "_at": "2026-11-24T12:31:44.692Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|Layer 2": {
+   "shed": "Layer 2",
+   "date": "2026-11-24",
+   "batch": "18",
+   "mortality": 1,
+   "_at": "2026-11-24T12:31:44.710Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|Layer 3": {
+   "shed": "Layer 3",
+   "date": "2026-11-24",
+   "batch": "19",
+   "mortality": 1,
+   "_at": "2026-11-24T12:31:44.728Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|Layer 5": {
+   "shed": "Layer 5",
+   "date": "2026-11-24",
+   "batch": "16",
+   "mortality": 2,
+   "_at": "2026-11-24T12:31:44.758Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|Layer 6": {
+   "shed": "Layer 6",
+   "date": "2026-11-24",
+   "batch": "15",
+   "mortality": 3,
+   "_at": "2026-11-24T12:31:44.777Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|Grower": {
+   "shed": "Grower",
+   "date": "2026-11-24",
+   "batch": "21",
+   "mortality": 1,
+   "_at": "2026-11-24T12:31:44.795Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 1": {
+   "shed": "Layer 1",
+   "date": "2026-11-25",
+   "batch": "17",
+   "mortality": 2,
+   "_at": "2026-11-26T03:07:25.650Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 2": {
+   "shed": "Layer 2",
+   "date": "2026-11-25",
+   "batch": "18",
+   "mortality": 2,
+   "_at": "2026-11-26T03:07:25.687Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 3": {
+   "shed": "Layer 3",
+   "date": "2026-11-25",
+   "batch": "19",
+   "mortality": 1,
+   "_at": "2026-11-26T03:07:25.746Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 5": {
+   "shed": "Layer 5",
+   "date": "2026-11-25",
+   "batch": "16",
+   "mortality": 3,
+   "_at": "2026-11-26T03:07:25.817Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 6": {
+   "shed": "Layer 6",
+   "date": "2026-11-25",
+   "batch": "15",
+   "mortality": 4,
+   "_at": "2026-11-26T03:07:25.850Z",
+   "_by": "gokul"
+  }
+ },
+ "dispatch": {
+  "2026-11-21|Layer 5|mwqg29wf2zco": {
+   "id": "mwqg29wf2zco",
+   "date": "2026-11-21",
+   "layer": "Layer 5",
+   "name": "OhmSakthi EC",
+   "good": 230,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "_at": "2026-11-21T16:39:23.137Z",
+   "_by": "chandran"
+  },
+  "2026-11-21|Layer 6|mwqg2qqycngq": {
+   "id": "mwqg2qqycngq",
+   "date": "2026-11-21",
+   "layer": "Layer 6",
+   "name": "OhmSakthi EC",
+   "good": 220,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "_by": "gokul",
+   "_at": "2026-11-21T16:27:21.115Z"
+  },
+  "2026-11-19|Layer 2|mwqg3zujm5yp": {
+   "id": "mwqg3zujm5yp",
+   "date": "2026-11-19",
+   "layer": "Layer 2",
+   "name": "Venkateswara EC",
+   "good": 100,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0
+  },
+  "2026-11-19|Layer 5|mwqg45v3zyqi": {
+   "id": "mwqg45v3zyqi",
+   "date": "2026-11-19",
+   "layer": "Layer 5",
+   "name": "Venkateswara EC",
+   "good": 500,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0
+  },
+  "2026-11-19|Layer 3|mwqg4cjxau7i": {
+   "id": "mwqg4cjxau7i",
+   "date": "2026-11-19",
+   "layer": "Layer 3",
+   "name": "Venkateswara EC",
+   "good": 100,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0
+  },
+  "2026-11-22|Layer 1|mwrntrtpsbd3": {
+   "id": "mwrntrtpsbd3",
+   "date": "2026-11-22",
+   "layer": "Layer 1",
+   "name": "Venkateswara EC",
+   "good": 410,
+   "small": 1,
+   "dirty": 5,
+   "damage": 3,
+   "_at": "2026-11-22T10:01:12.190Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 2|mwro16amab0t": {
+   "id": "mwro16amab0t",
+   "date": "2026-11-22",
+   "layer": "Layer 2",
+   "name": "Venkateswara EC",
+   "good": 640,
+   "small": 1.5,
+   "dirty": 9.5,
+   "damage": 3,
+   "_at": "2026-11-22T10:01:15.382Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 5|mwro3bim7hik": {
+   "id": "mwro3bim7hik",
+   "date": "2026-11-22",
+   "layer": "Layer 5",
+   "name": "Venkateswara EC",
+   "good": 420,
+   "small": 1,
+   "dirty": 3,
+   "damage": 2,
+   "_at": "2026-11-22T10:11:23.235Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 6|mwro40jj9rvv": {
+   "id": "mwro40jj9rvv",
+   "date": "2026-11-22",
+   "layer": "Layer 6",
+   "name": "Venkateswara EC",
+   "good": 630,
+   "small": 6.5,
+   "dirty": 10,
+   "damage": 5.5,
+   "_at": "2026-11-22T10:03:00.345Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 1|mwro6e6u0do7": {
+   "id": "mwro6e6u0do7",
+   "date": "2026-11-22",
+   "layer": "Layer 1",
+   "name": "Venkateswara EC",
+   "good": 50,
+   "small": 3,
+   "dirty": 3,
+   "damage": 2,
+   "_at": "2026-11-22T10:07:16.917Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 2|mwroatfhd56n": {
+   "id": "mwroatfhd56n",
+   "date": "2026-11-22",
+   "layer": "Layer 2",
+   "name": "Venkateswara EC",
+   "good": 150,
+   "small": 1,
+   "dirty": 2,
+   "damage": 0,
+   "_at": "2026-11-22T10:08:42.538Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 3|mwrockxoka9k": {
+   "id": "mwrockxoka9k",
+   "date": "2026-11-22",
+   "layer": "Layer 3",
+   "name": "Venkateswara EC",
+   "good": 550,
+   "small": 3,
+   "dirty": 3,
+   "damage": 2,
+   "_at": "2026-11-22T10:09:57.549Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 5|mwroed71xfps": {
+   "id": "mwroed71xfps",
+   "date": "2026-11-22",
+   "layer": "Layer 5",
+   "name": "Venkateswara EC",
+   "good": 750,
+   "small": 5,
+   "dirty": 10,
+   "damage": 10,
+   "_at": "2026-11-22T10:11:22.748Z",
+   "_by": "gokul"
+  },
+  "2026-11-23|Layer 4|mwsvleivjpbr": {
+   "id": "mwsvleivjpbr",
+   "date": "2026-11-23",
+   "layer": "Layer 4",
+   "name": "VR",
+   "good": 800,
+   "small": 0,
+   "dirty": 0,
+   "damage": 1,
+   "_at": "2026-11-23T06:20:04.837Z",
+   "_by": "gokul"
+  },
+  "2026-11-23|Layer 1|mwt87oyk1tct": {
+   "id": "mwt87oyk1tct",
+   "date": "2026-11-23",
+   "layer": "Layer 1",
+   "name": "NP Egg Centre",
+   "good": 150,
+   "small": 0,
+   "dirty": 2,
+   "damage": 1,
+   "_at": "2026-11-23T12:14:10.839Z",
+   "_by": "gokul"
+  },
+  "2026-11-23|Layer 2|mwt89rxtxduy": {
+   "id": "mwt89rxtxduy",
+   "date": "2026-11-23",
+   "layer": "Layer 2",
+   "name": "NP Egg Centre",
+   "good": 150,
+   "small": 0,
+   "dirty": 1,
+   "damage": 1,
+   "_at": "2026-11-23T12:15:29.738Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 1|mwvyi1qyzh0k": {
+   "id": "mwvyi1qyzh0k",
+   "date": "2026-11-25",
+   "layer": "Layer 1",
+   "name": "Venkateswara EC",
+   "good": 420,
+   "small": 3,
+   "dirty": 4.5,
+   "damage": 2.5,
+   "_at": "2026-11-25T10:07:56.494Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 2|mwvyn2prqg9w": {
+   "id": "mwvyn2prqg9w",
+   "date": "2026-11-25",
+   "layer": "Layer 2",
+   "name": "Venkateswara EC",
+   "good": 420,
+   "small": 1,
+   "dirty": 7.5,
+   "damage": 1.5,
+   "_at": "2026-11-25T10:10:36.803Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 5|mwvyqyypq51r": {
+   "id": "mwvyqyypq51r",
+   "date": "2026-11-25",
+   "layer": "Layer 5",
+   "name": "Venkateswara EC",
+   "good": 420,
+   "small": 1,
+   "dirty": 4,
+   "damage": 2,
+   "_at": "2026-11-25T10:11:31.040Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 6|mwvyrnj6np76": {
+   "id": "mwvyrnj6np76",
+   "date": "2026-11-25",
+   "layer": "Layer 6",
+   "name": "Venkateswara EC",
+   "good": 840,
+   "small": 8.5,
+   "dirty": 13,
+   "damage": 6.5,
+   "_at": "2026-11-25T10:12:17.853Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 5|mwvysxtwkgjc": {
+   "id": "mwvysxtwkgjc",
+   "date": "2026-11-25",
+   "layer": "Layer 5",
+   "name": "Venkateswara EC",
+   "good": 350,
+   "small": 3,
+   "dirty": 6,
+   "damage": 4,
+   "_at": "2026-11-25T10:13:17.761Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 3|mwvyu14xqkea": {
+   "id": "mwvyu14xqkea",
+   "date": "2026-11-25",
+   "layer": "Layer 3",
+   "name": "Venkateswara EC",
+   "good": 1150,
+   "small": 2,
+   "dirty": 7,
+   "damage": 2,
+   "_at": "2026-11-25T10:14:01.697Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 3|mwvyvb7xa2py": {
+   "id": "mwvyvb7xa2py",
+   "date": "2026-11-25",
+   "layer": "Layer 3",
+   "name": "Ganapathy Egg Center",
+   "good": 5,
+   "small": 10,
+   "dirty": 0,
+   "damage": 0,
+   "_at": "2026-11-25T10:15:17.565Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 4|mww4krm0aryp": {
+   "id": "mww4krm0aryp",
+   "date": "2026-11-25",
+   "layer": "Layer 4",
+   "name": "VR",
+   "good": 1090,
+   "small": 0,
+   "dirty": 0,
+   "damage": 3,
+   "_at": "2026-11-25T12:54:56.009Z",
+   "_by": "gokul"
+  },
+  "2026-11-26|Layer 1|mwxiqu37z1g6": {
+   "id": "mwxiqu37z1g6",
+   "date": "2026-11-26",
+   "layer": "Layer 1",
+   "name": "Venkateswara EC",
+   "good": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "_at": "2026-11-26T12:18:36.505Z",
+   "_by": "gokul"
+  },
+  "2026-11-26|Layer 5|mwxir4g98lzp": {
+   "id": "mwxir4g98lzp",
+   "date": "2026-11-26",
+   "layer": "Layer 5",
+   "name": "OhmSakthi EC",
+   "good": 250,
+   "small": 1,
+   "dirty": 1,
+   "damage": 1,
+   "_at": "2026-11-26T12:19:10.991Z",
+   "_by": "gokul"
+  }
+ },
+ "stock": {
+  "2026-11-16|Layer 1": {
+   "date": "2026-11-16",
+   "layer": "Layer 1",
+   "es": 7,
+   "ne": 401,
+   "size": "Big size"
+  },
+  "2026-11-17|Layer 1": {
+   "date": "2026-11-17",
+   "layer": "Layer 1",
+   "es": 369,
+   "ne": 395,
+   "size": "Big size"
+  },
+  "2026-11-18|Layer 1": {
+   "date": "2026-11-18",
+   "layer": "Layer 1",
+   "es": 349,
+   "ne": 409,
+   "size": "Big size"
+  },
+  "2026-11-19|Layer 1": {
+   "date": "2026-11-19",
+   "layer": "Layer 1",
+   "es": 244,
+   "ne": 413,
+   "size": "Big size"
+  },
+  "2026-11-20|Layer 1": {
+   "es": 23,
+   "ne": 407,
+   "de": 0
+  },
+  "2026-11-17|Layer 2": {
+   "date": "2026-11-17",
+   "layer": "Layer 2",
+   "es": 227,
+   "ne": 414,
+   "size": "Big size"
+  },
+  "2026-11-18|Layer 2": {
+   "date": "2026-11-18",
+   "layer": "Layer 2",
+   "es": 219,
+   "ne": 409,
+   "size": "Big size"
+  },
+  "2026-11-19|Layer 2": {
+   "date": "2026-11-19",
+   "layer": "Layer 2",
+   "es": 323,
+   "ne": 420,
+   "size": "Big size"
+  },
+  "2026-11-20|Layer 2": {
+   "es": 243,
+   "ne": 418,
+   "de": 0
+  },
+  "2026-11-17|Layer 3": {
+   "date": "2026-11-17",
+   "layer": "Layer 3",
+   "es": 447,
+   "ne": 457,
+   "size": "Big size"
+  },
+  "2026-11-18|Layer 3": {
+   "date": "2026-11-18",
+   "layer": "Layer 3",
+   "es": 25,
+   "ne": 460,
+   "size": "Big size"
+  },
+  "2026-11-19|Layer 3": {
+   "date": "2026-11-19",
+   "layer": "Layer 3",
+   "es": 283,
+   "ne": 452,
+   "size": "Big size"
+  },
+  "2026-11-20|Layer 3": {
+   "es": 175,
+   "ne": 463,
+   "de": 0
+  },
+  "2026-11-17|Layer 4": {
+   "date": "2026-11-17",
+   "layer": "Layer 4",
+   "es": 610,
+   "ne": 470,
+   "size": "Small"
+  },
+  "2026-11-18|Layer 4": {
+   "date": "2026-11-18",
+   "layer": "Layer 4",
+   "es": 1080,
+   "ne": 457,
+   "size": "Small"
+  },
+  "2026-11-19|Layer 4": {
+   "date": "2026-11-19",
+   "layer": "Layer 4",
+   "es": 1537,
+   "ne": 477,
+   "size": "Small"
+  },
+  "2026-11-20|Layer 4": {
+   "date": "2026-11-20",
+   "layer": "Layer 4",
+   "es": 2014,
+   "ne": 483,
+   "size": "Small"
+  },
+  "2026-11-17|Layer 5": {
+   "date": "2026-11-17",
+   "layer": "Layer 5",
+   "es": 307,
+   "ne": 352,
+   "size": "Big size"
+  },
+  "2026-11-18|Layer 5": {
+   "date": "2026-11-18",
+   "layer": "Layer 5",
+   "es": 659,
+   "ne": 355,
+   "size": "Big size"
+  },
+  "2026-11-19|Layer 5": {
+   "date": "2026-11-19",
+   "layer": "Layer 5",
+   "es": 510,
+   "ne": 356,
+   "size": "Big size"
+  },
+  "2026-11-20|Layer 5": {
+   "es": 866,
+   "ne": 344,
+   "de": 0
+  },
+  "2026-11-20|Layer 6": {
+   "es": 237,
+   "ne": 371,
+   "de": 0
+  },
+  "2026-11-16|Layer 4": {
+   "date": "2026-11-16",
+   "layer": "Layer 4",
+   "es": 2573,
+   "ne": 470,
+   "size": "Small"
+  },
+  "2026-11-16|Layer 3": {
+   "date": "2026-11-16",
+   "layer": "Layer 3",
+   "es": 199,
+   "ne": 458,
+   "size": "Big size"
+  },
+  "2026-11-16|Layer 2": {
+   "date": "2026-11-16",
+   "layer": "Layer 2",
+   "es": 232,
+   "ne": 428,
+   "size": "Big size"
+  },
+  "2026-11-16|Layer 5": {
+   "date": "2026-11-16",
+   "layer": "Layer 5",
+   "es": 375,
+   "ne": 362,
+   "size": "Big size"
+  },
+  "2026-11-16|Layer 6": {
+   "date": "2026-11-16",
+   "layer": "Layer 6",
+   "es": 562,
+   "ne": 382,
+   "size": "Big size"
+  },
+  "2026-11-17|Layer 6": {
+   "date": "2026-11-17",
+   "layer": "Layer 6",
+   "es": 301,
+   "ne": 374,
+   "size": "Big size"
+  },
+  "2026-11-19|Layer 6": {
+   "date": "2026-11-19",
+   "layer": "Layer 6",
+   "es": 237,
+   "ne": 371,
+   "size": "Big size"
+  },
+  "2026-11-18|Layer 6": {
+   "date": "2026-11-18",
+   "layer": "Layer 6",
+   "es": 244,
+   "ne": 382,
+   "size": "Big size"
+  },
+  "2026-11-21|Layer 1": {
+   "date": "2026-11-21",
+   "layer": "Layer 1",
+   "es": 20,
+   "ne": 405,
+   "size": "Big size"
+  },
+  "2026-11-21|Layer 2": {
+   "date": "2026-11-21",
+   "layer": "Layer 2",
+   "es": 659,
+   "ne": 419,
+   "size": "Big size"
+  },
+  "2026-11-21|Layer 3": {
+   "date": "2026-11-21",
+   "layer": "Layer 3",
+   "es": 175,
+   "ne": 461,
+   "size": "Big size"
+  },
+  "2026-11-21|Layer 4": {
+   "date": "2026-11-21",
+   "layer": "Layer 4",
+   "es": 492,
+   "ne": 477,
+   "size": "Small"
+  },
+  "2026-11-21|Layer 5": {
+   "date": "2026-11-21",
+   "layer": "Layer 5",
+   "es": 977,
+   "ne": 346,
+   "size": "Big size"
+  },
+  "2026-11-21|Layer 6": {
+   "date": "2026-11-21",
+   "layer": "Layer 6",
+   "es": 383,
+   "ne": 378,
+   "size": "Big size"
+  },
+  "2026-11-22|Layer 3": {
+   "date": "2026-11-22",
+   "layer": "Layer 3",
+   "ins": true,
+   "es": 86,
+   "ne": 465,
+   "size": "Big size",
+   "_at": "2026-11-22T11:39:43.387Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 6": {
+   "date": "2026-11-22",
+   "layer": "Layer 6",
+   "ins": true,
+   "es": 110,
+   "ne": 362,
+   "size": "Big size",
+   "_at": "2026-11-22T11:39:43.400Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 5": {
+   "date": "2026-11-22",
+   "layer": "Layer 5",
+   "ins": true,
+   "es": 118,
+   "ne": 340,
+   "size": "Big size",
+   "_at": "2026-11-22T11:39:43.396Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 4": {
+   "date": "2026-11-22",
+   "layer": "Layer 4",
+   "ins": true,
+   "es": 969,
+   "ne": 478,
+   "size": "Export",
+   "_at": "2026-11-22T11:39:43.391Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 2": {
+   "date": "2026-11-22",
+   "layer": "Layer 2",
+   "ins": true,
+   "es": 266,
+   "ne": 421,
+   "size": "Big size",
+   "_at": "2026-11-22T11:39:43.382Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|Layer 1": {
+   "date": "2026-11-22",
+   "layer": "Layer 1",
+   "ins": false,
+   "es": 367,
+   "ne": 420,
+   "size": "Big size",
+   "_at": "2026-11-22T11:39:43.376Z",
+   "_by": "gokul"
+  },
+  "2026-11-23|Layer 3": {
+   "date": "2026-11-23",
+   "layer": "Layer 3",
+   "ins": true,
+   "es": 551,
+   "ne": 466,
+   "size": "Big size",
+   "_at": "2026-11-23T12:30:05.060Z",
+   "_by": "gokul"
+  },
+  "2026-11-23|Layer 4": {
+   "date": "2026-11-23",
+   "layer": "Layer 4",
+   "ins": true,
+   "es": 646,
+   "ne": 502,
+   "size": "Export",
+   "_at": "2026-11-23T12:30:05.065Z",
+   "_by": "gokul"
+  },
+  "2026-11-23|Layer 6": {
+   "date": "2026-11-23",
+   "layer": "Layer 6",
+   "ins": true,
+   "es": 472,
+   "ne": 375,
+   "size": "Big size",
+   "_at": "2026-11-23T12:30:05.075Z",
+   "_by": "gokul"
+  },
+  "2026-11-23|Layer 5": {
+   "date": "2026-11-23",
+   "layer": "Layer 5",
+   "ins": true,
+   "es": 458,
+   "ne": 354,
+   "size": "Big size",
+   "_at": "2026-11-23T12:30:05.070Z",
+   "_by": "gokul"
+  },
+  "2026-11-23|Layer 1": {
+   "date": "2026-11-23",
+   "layer": "Layer 1",
+   "ins": true,
+   "es": 207,
+   "ne": 415,
+   "size": "Big size",
+   "_at": "2026-11-23T12:30:05.047Z",
+   "_by": "gokul"
+  },
+  "2026-11-23|Layer 2": {
+   "date": "2026-11-23",
+   "layer": "Layer 2",
+   "ins": true,
+   "es": 535,
+   "ne": 414,
+   "size": "Big size",
+   "_at": "2026-11-23T12:30:05.054Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|Layer 3": {
+   "date": "2026-11-24",
+   "layer": "Layer 3",
+   "ins": true,
+   "es": 1017,
+   "ne": 466,
+   "size": "Big size",
+   "_at": "2026-11-24T12:40:21.117Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|Layer 4": {
+   "date": "2026-11-24",
+   "layer": "Layer 4",
+   "ins": true,
+   "es": 1148,
+   "ne": 460,
+   "size": "Export",
+   "_at": "2026-11-24T12:40:21.129Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|Layer 5": {
+   "date": "2026-11-24",
+   "layer": "Layer 5",
+   "ins": true,
+   "es": 808,
+   "ne": 349,
+   "size": "Big size",
+   "_at": "2026-11-24T12:40:21.141Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|Layer 6": {
+   "date": "2026-11-24",
+   "layer": "Layer 6",
+   "ins": true,
+   "es": 847,
+   "ne": 382,
+   "size": "Big size",
+   "_at": "2026-11-24T12:40:21.152Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|Layer 1": {
+   "date": "2026-11-24",
+   "layer": "Layer 1",
+   "ins": true,
+   "es": 622,
+   "ne": 402,
+   "size": "Big size",
+   "_at": "2026-11-24T12:40:21.092Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|Layer 2": {
+   "date": "2026-11-24",
+   "layer": "Layer 2",
+   "ins": true,
+   "es": 943,
+   "ne": 415,
+   "size": "Big size",
+   "_at": "2026-11-24T12:40:21.103Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 3": {
+   "date": "2026-11-25",
+   "layer": "Layer 3",
+   "ins": true,
+   "es": 307,
+   "ne": 479,
+   "size": "Big size",
+   "_at": "2026-11-25T12:29:38.783Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 6": {
+   "date": "2026-11-25",
+   "layer": "Layer 6",
+   "ins": true,
+   "es": 360,
+   "ne": 373,
+   "size": "Big size",
+   "_at": "2026-11-25T12:29:38.811Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 5": {
+   "date": "2026-11-25",
+   "layer": "Layer 5",
+   "ins": true,
+   "es": 367,
+   "ne": 336,
+   "size": "Big size",
+   "_at": "2026-11-25T12:29:38.799Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 1": {
+   "date": "2026-11-25",
+   "layer": "Layer 1",
+   "ins": true,
+   "es": 586,
+   "ne": 411,
+   "size": "Big size",
+   "_at": "2026-11-25T12:29:38.747Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 2": {
+   "date": "2026-11-25",
+   "layer": "Layer 2",
+   "ins": true,
+   "es": 922,
+   "ne": 410,
+   "size": "Big size",
+   "_at": "2026-11-25T12:29:38.769Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|Layer 4": {
+   "date": "2026-11-25",
+   "layer": "Layer 4",
+   "ins": true,
+   "es": 515,
+   "ne": 486,
+   "size": "Export",
+   "_at": "2026-11-25T12:53:20.490Z",
+   "_by": "gokul"
+  },
+  "2026-11-26|Layer 4": {
+   "date": "2026-11-26",
+   "layer": "Layer 4",
+   "ins": true,
+   "es": 1001,
+   "ne": 475,
+   "size": "Export",
+   "_at": "2026-11-26T12:09:33.001Z",
+   "_by": "gokul"
+  },
+  "2026-11-26|Layer 3": {
+   "date": "2026-11-26",
+   "layer": "Layer 3",
+   "ins": true,
+   "es": 786,
+   "ne": 462,
+   "size": "Big size",
+   "_at": "2026-11-26T12:09:30.743Z",
+   "_by": "gokul"
+  }
+ },
+ "closing": {
+  "2026-11-16": {
+   "damage": 0,
+   "small": 0,
+   "dirty": 0,
+   "doubles": 0
+  },
+  "2026-11-17": {
+   "damage": 0,
+   "small": 0,
+   "dirty": 0,
+   "doubles": 0
+  },
+  "2026-11-19": {
+   "damage": 0,
+   "small": 0,
+   "dirty": 0,
+   "doubles": 0
+  },
+  "2026-11-18": {
+   "damage": 0,
+   "small": 0,
+   "dirty": 0,
+   "doubles": 0
+  },
+  "2026-11-21": {
+   "damage": 4,
+   "small": 22,
+   "dirty": 0,
+   "doubles": 3
+  },
+  "2026-11-22": {
+   "damage": 20,
+   "small": 15,
+   "dirty": 1,
+   "doubles": 6,
+   "_at": "2026-11-22T11:39:43.403Z",
+   "_by": "gokul"
+  },
+  "2026-11-23": {
+   "damage": 37,
+   "small": 15,
+   "dirty": 2,
+   "doubles": 5,
+   "_at": "2026-11-23T12:30:05.080Z",
+   "_by": "gokul"
+  },
+  "2026-11-24": {
+   "damage": 50,
+   "small": 11,
+   "dirty": 0,
+   "doubles": 5,
+   "_at": "2026-11-24T12:40:21.160Z",
+   "_by": "gokul"
+  },
+  "2026-11-25": {
+   "damage": 57,
+   "small": 11,
+   "dirty": 26,
+   "doubles": 10,
+   "_at": "2026-11-25T12:29:38.823Z",
+   "_by": "gokul"
+  }
+ },
+ "feed": {
+  "2026-11-20": {
+   "date": "2026-11-20",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ]
+  },
+  "2026-11-16": {
+   "date": "2026-11-16",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "",
+     "med": "Vetmulin 2 kg, Basix NF 650g"
+    },
+    {
+     "name": "Layer 5",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T14:35:10.940Z",
+   "_by": "admin"
+  },
+  "2026-11-17": {
+   "date": "2026-11-17",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "4",
+     "med": "Vetmulin 2kg, Basix NF 650g, 7 Ton"
+    },
+    {
+     "name": "Layer 4",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "2",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T14:35:58.040Z",
+   "_by": "admin"
+  },
+  "2026-11-18": {
+   "date": "2026-11-18",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ]
+  },
+  "2026-11-19": {
+   "date": "2026-11-19",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "3",
+     "med": "Vetmulin 2kg, Basix NF 650g 10ton"
+    },
+    {
+     "name": "Layer 4",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T14:28:27.388Z",
+   "_by": "admin"
+  },
+  "2026-11-21": {
+   "date": "2026-11-21",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "3",
+     "med": "Vetmulin 2 kg, Basix NF 650g (13 of 13 Ton)"
+    },
+    {
+     "name": "Layer 4",
+     "tons": "3",
+     "med": "Zagro Tiazin 2kg, OxyZag 750g ( 3 of 12 Ton)"
+    },
+    {
+     "name": "Layer 5",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ]
+  },
+  "2026-11-22": {
+   "date": "2026-11-22",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-22T04:33:59.962Z",
+   "_by": "gokul"
+  },
+  "2026-11-23": {
+   "date": "2026-11-23",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "3",
+     "med": "Tiazin-2kg,Oxyzag 150-750g,6ton, Nulay 1/2 kg"
+    },
+    {
+     "name": "Layer 5",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-23T04:47:03.531Z",
+   "_by": "gokul"
+  },
+  "2026-11-24": {
+   "date": "2026-11-24",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-24T04:40:56.019Z",
+   "_by": "gokul"
+  },
+  "2026-11-25": {
+   "date": "2026-11-25",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "3",
+     "med": "Tiazin-2kg,Oxyzag 150-750g,9ton, Nulay 1/2 kg"
+    },
+    {
+     "name": "Layer 5",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T06:23:07.769Z",
+   "_by": "gokul"
+  },
+  "2026-11-01": {
+   "date": "2026-11-01",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "3",
+     "med": "Grower feed"
+    },
+    {
+     "name": "Layer 5",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.569Z",
+   "_by": "admin"
+  },
+  "2026-11-02": {
+   "date": "2026-11-02",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "3",
+     "med": "2 kg Vetmulin, 1/2kg Augumycin, 1/2 kg Basix nf, 9 of 12 Ton"
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "3",
+     "med": "Chick Feed (Grower Shed)"
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.577Z",
+   "_by": "admin"
+  },
+  "2026-11-03": {
+   "date": "2026-11-03",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "2",
+     "med": "Grower feed"
+    },
+    {
+     "name": "Layer 5",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.582Z",
+   "_by": "admin"
+  },
+  "2026-11-04": {
+   "date": "2026-11-04",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "3",
+     "med": "2 kg Vetmulin, 1/2kg Augumycin, 1/2 kg Basix nf, 12 of 12 Ton"
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "3",
+     "med": "2 kg Vetmulin, 1kg Augumycin,3 of 12 Ton"
+    },
+    {
+     "name": "Layer 6",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.587Z",
+   "_by": "admin"
+  },
+  "2026-11-05": {
+   "date": "2026-11-05",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "3",
+     "med": "Grower feed"
+    },
+    {
+     "name": "Layer 5",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "3",
+     "med": "Grower Feed (Nulay:1/2kg, medicine 3 of 24 Ton) LiverVital : 1.5 Liter Water. (2days) WK 13"
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.591Z",
+   "_by": "admin"
+  },
+  "2026-11-06": {
+   "date": "2026-11-06",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "3",
+     "med": "2 kg Vetmulin, 1kg Augumycin,6 of 12 Ton"
+    },
+    {
+     "name": "Layer 6",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.595Z",
+   "_by": "admin"
+  },
+  "2026-11-07": {
+   "date": "2026-11-07",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "4",
+     "med": "Grower feed"
+    },
+    {
+     "name": "Layer 5",
+     "tons": "3",
+     "med": "2 kg Vetmulin, 1kg Augumycin,9 of 12 Ton"
+    },
+    {
+     "name": "Layer 6",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "3",
+     "med": "Grower Feed (Nulay:1/2kg, medicine 6 of 24 Ton) WK 13"
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.599Z",
+   "_by": "admin"
+  },
+  "2026-11-09": {
+   "date": "2026-11-09",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "3",
+     "med": "Grower feed"
+    },
+    {
+     "name": "Layer 5",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.602Z",
+   "_by": "admin"
+  },
+  "2026-11-10": {
+   "date": "2026-11-10",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "3",
+     "med": "2 kg Vetmulin, 1kg Augumycin,12 of 12 Ton"
+    },
+    {
+     "name": "Layer 6",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.606Z",
+   "_by": "admin"
+  },
+  "2026-11-11": {
+   "date": "2026-11-11",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "3",
+     "med": "Grower feed"
+    },
+    {
+     "name": "Layer 5",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "2",
+     "med": "Grower Feed (Nulay:1/2kg, medicine 8 of 24 Ton) WK 13"
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.609Z",
+   "_by": "admin"
+  },
+  "2026-11-12": {
+   "date": "2026-11-12",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.612Z",
+   "_by": "admin"
+  },
+  "2026-11-13": {
+   "date": "2026-11-13",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "4",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "3",
+     "med": "Grower feed"
+    },
+    {
+     "name": "Layer 5",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.615Z",
+   "_by": "admin"
+  },
+  "2026-11-14": {
+   "date": "2026-11-14",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 5",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "1",
+     "med": "Grower Feed (Nulay:1/2kg, medicine 9 of 24 Ton) WK 14"
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.618Z",
+   "_by": "admin"
+  },
+  "2026-11-15": {
+   "date": "2026-11-15",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "3",
+     "med": "Vetmulin: 2kg, Basix NF 650g,3 of 12 Ton"
+    },
+    {
+     "name": "Layer 4",
+     "tons": "3",
+     "med": "Grower feed"
+    },
+    {
+     "name": "Layer 5",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "2",
+     "med": "Grower Feed (Nulay:1/2kg, medicine 11 of 24 Ton) WK 14"
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-25T15:36:35.620Z",
+   "_by": "admin"
+  },
+  "2026-11-26": {
+   "date": "2026-11-26",
+   "rows": [
+    {
+     "name": "Layer 1",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Layer 2",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 3",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Layer 4",
+     "tons": "1",
+     "med": "Tiazin-2kg,Oxyzag 150-750g,10ton, Nulay 1/2 kg"
+    },
+    {
+     "name": "Layer 5",
+     "tons": "2",
+     "med": ""
+    },
+    {
+     "name": "Layer 6",
+     "tons": "3",
+     "med": ""
+    },
+    {
+     "name": "Grower",
+     "tons": "",
+     "med": ""
+    },
+    {
+     "name": "Chick",
+     "tons": "",
+     "med": ""
+    }
+   ],
+   "_at": "2026-11-26T04:51:22.337Z",
+   "_by": "gokul"
+  }
+ },
+ "leave": {
+  "2026-11-15|mwqfdhj3kwhq": {
+   "id": "mwqfdhj3kwhq",
+   "date": "2026-11-15",
+   "name": "Vanitha",
+   "rep": "Gulam/Sirul"
+  },
+  "2026-11-16|mwqfdzuvjog8": {
+   "id": "mwqfdzuvjog8",
+   "date": "2026-11-16",
+   "name": "Vanitha",
+   "rep": "Gulam"
+  },
+  "2026-11-22|mwrrt1rck8eo": {
+   "id": "mwrrt1rck8eo",
+   "date": "2026-11-22",
+   "name": "Latha",
+   "rep": "Vanitha",
+   "_at": "2026-11-22T11:46:01.462Z",
+   "_by": "gokul"
+  }
+ },
+ "veh": {
+  "2026-11-22|mwrntru3yl2v": {
+   "id": "mwrntru3yl2v",
+   "date": "2026-11-22",
+   "number": "TN93B4856",
+   "dir": "out",
+   "material": "DDGS",
+   "weight": 1060,
+   "_at": "2026-11-22T10:14:07.550Z",
+   "_by": "gokul"
+  },
+  "2026-11-23|mwt87oyvx35c": {
+   "id": "mwt87oyvx35c",
+   "date": "2026-11-23",
+   "number": "TN28BY4838",
+   "dir": "in",
+   "material": "CONCENTRATE",
+   "weight": 5000,
+   "_at": "2026-11-23T12:17:55.892Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|mwu7d4kc2em8": {
+   "id": "mwu7d4kc2em8",
+   "date": "2026-11-24",
+   "number": "TN45AR2846",
+   "dir": "in",
+   "material": "CALCITE",
+   "weight": 32000,
+   "_at": "2026-11-24T09:52:23.229Z",
+   "_by": "admin"
+  },
+  "2026-11-24|mwuf8cj1y1ko": {
+   "id": "mwuf8cj1y1ko",
+   "date": "2026-11-24",
+   "number": "TN522279",
+   "dir": "in",
+   "material": "RSEED",
+   "weight": 26400,
+   "_at": "2026-11-24T08:18:00.608Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|mwuhpdt4cw8g": {
+   "id": "mwuhpdt4cw8g",
+   "date": "2026-11-24",
+   "number": "TN30CF5504",
+   "dir": "out",
+   "material": "DDGS",
+   "weight": 1950,
+   "_at": "2026-11-24T12:39:28.696Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|mwuhrke5v036": {
+   "id": "mwuhrke5v036",
+   "date": "2026-11-24",
+   "number": "TN93B4856",
+   "dir": "in",
+   "material": "DORB",
+   "weight": 12000,
+   "_at": "2026-11-24T09:28:47.259Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|mwui9yt5duwn": {
+   "id": "mwui9yt5duwn",
+   "date": "2026-11-24",
+   "number": "TN34AB7676",
+   "dir": "in",
+   "material": "SOYA",
+   "weight": 24980,
+   "_at": "2026-11-24T09:43:36.049Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|mwvzq1cfirb3": {
+   "id": "mwvzq1cfirb3",
+   "date": "2026-11-25",
+   "number": "TN77R4987",
+   "dir": "in",
+   "material": "MAIZE",
+   "weight": 1900,
+   "_at": "2026-11-25T10:38:59.383Z",
+   "_by": "gokul"
+  },
+  "2026-11-26|mwwz2fsl532d": {
+   "id": "mwwz2fsl532d",
+   "date": "2026-11-26",
+   "number": "TN52AB7508",
+   "dir": "in",
+   "material": "DDGS",
+   "weight": 31050,
+   "_at": "2026-11-26T03:08:58.513Z",
+   "_by": "gokul"
+  }
+ },
+ "sales": {
+  "2026-11-22|mwrl6adr7109": {
+   "id": "mwrl6adr7109",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 5,
+   "damage": 0,
+   "amt": 700,
+   "_at": "2026-11-22T08:40:06.523Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|mwrl674zu62y": {
+   "id": "mwrl674zu62y",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 5,
+   "amt": 400,
+   "_at": "2026-11-22T08:40:18.790Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|mwrld3w4kqyb": {
+   "id": "mwrld3w4kqyb",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 4,
+   "damage": 0,
+   "amt": 560,
+   "_at": "2026-11-22T08:45:21.887Z",
+   "_by": "chandran"
+  },
+  "2026-11-22|mwrldb4nj0ay": {
+   "id": "mwrldb4nj0ay",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 2,
+   "damage": 1,
+   "amt": 360,
+   "_at": "2026-11-22T08:45:35.562Z",
+   "_by": "chandran"
+  },
+  "2026-11-22|mwrlmpfm51un": {
+   "id": "mwrlmpfm51un",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 4,
+   "damage": 0,
+   "amt": 560,
+   "_at": "2026-11-22T08:52:48.611Z",
+   "_by": "chandran"
+  },
+  "2026-11-22|mwrlq9nuv5g6": {
+   "id": "mwrlq9nuv5g6",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 1,
+   "amt": 80,
+   "_at": "2026-11-22T08:55:37.976Z",
+   "_by": "chandran"
+  },
+  "2026-11-22|mwrlterjze1w": {
+   "id": "mwrlterjze1w",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 1,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "amt": 200,
+   "_at": "2026-11-22T08:58:05.851Z",
+   "_by": "chandran"
+  },
+  "2026-11-22|mwrmdjhvmpre": {
+   "id": "mwrmdjhvmpre",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 1,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "amt": 180,
+   "_at": "2026-11-22T09:14:06.231Z",
+   "_by": "chandran"
+  },
+  "2026-11-22|mwrmf31phd3k": {
+   "id": "mwrmf31phd3k",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 1,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "amt": 200,
+   "_at": "2026-11-22T09:14:54.635Z",
+   "_by": "chandran"
+  },
+  "2026-11-22|mwrmf9udd5gr": {
+   "id": "mwrmf9udd5gr",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 1,
+   "amt": 80,
+   "_at": "2026-11-22T09:15:00.480Z",
+   "_by": "chandran"
+  },
+  "2026-11-22|mwrmm637ui7r": {
+   "id": "mwrmm637ui7r",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 1,
+   "damage": 15,
+   "amt": 1340,
+   "_at": "2026-11-22T09:20:25.720Z",
+   "_by": "chandran"
+  },
+  "2026-11-22|mwrmmh75mp9j": {
+   "id": "mwrmmh75mp9j",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 3,
+   "amt": 240,
+   "_at": "2026-11-22T09:20:40.289Z",
+   "_by": "chandran"
+  },
+  "2026-11-22|mwrmmokrd81x": {
+   "id": "mwrmmokrd81x",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 9,
+   "damage": 0,
+   "amt": 1260,
+   "_at": "2026-11-22T09:21:17.614Z",
+   "_by": "chandran"
+  },
+  "2026-11-22|mwrmn0snucme": {
+   "id": "mwrmn0snucme",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 3,
+   "damage": 0,
+   "amt": 420,
+   "_at": "2026-11-22T09:21:17.629Z",
+   "_by": "chandran"
+  },
+  "2026-11-22|mwrmnbqo0x4c": {
+   "id": "mwrmnbqo0x4c",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 5,
+   "damage": 0,
+   "amt": 700,
+   "_at": "2026-11-22T09:21:17.636Z",
+   "_by": "chandran"
+  },
+  "2026-11-22|mwrmzregtvn5": {
+   "id": "mwrmzregtvn5",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 2,
+   "dirty": 0,
+   "damage": 2,
+   "amt": 380,
+   "_at": "2026-11-22T09:35:07.917Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|mwrno2197583": {
+   "id": "mwrno2197583",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 1,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "amt": 180,
+   "_at": "2026-11-22T09:49:54.690Z",
+   "_by": "chandran"
+  },
+  "2026-11-22|mwrnu18yea89": {
+   "id": "mwrnu18yea89",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 5,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "amt": 1000,
+   "_at": "2026-11-22T09:54:34.814Z",
+   "_by": "gokul"
+  },
+  "2026-11-22|mwronxlcse00": {
+   "id": "mwronxlcse00",
+   "date": "2026-11-22",
+   "buyer": "",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 2,
+   "amt": 160,
+   "_at": "2026-11-22T10:17:45.296Z",
+   "_by": "gokul"
+  },
+  "2026-11-23|mwt0c88ffl5k": {
+   "id": "mwt0c88ffl5k",
+   "date": "2026-11-23",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 180,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-22T08:30:37.811Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 5,
+   "amt": 400,
+   "_at": "2026-11-23T08:32:23.842Z",
+   "_by": "gokul"
+  },
+  "2026-11-23|mwt1nmh2065s": {
+   "id": "mwt1nmh2065s",
+   "date": "2026-11-23",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 2,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "amt": 340,
+   "_at": "2026-11-23T09:09:14.580Z",
+   "_by": "gokul"
+  },
+  "2026-11-23|mwt1r3uzr2ml": {
+   "id": "mwt1r3uzr2ml",
+   "date": "2026-11-23",
+   "buyer": "",
+   "pay": "GPay",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 2,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "amt": 400,
+   "_at": "2026-11-23T09:12:01.477Z",
+   "_by": "gokul"
+  },
+  "2026-11-23|mwt20gj9hmfd": {
+   "id": "mwt20gj9hmfd",
+   "date": "2026-11-23",
+   "buyer": "",
+   "pay": "GPay",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 2,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 1,
+   "damage": 4,
+   "amt": 800,
+   "_at": "2026-11-23T09:22:28.820Z",
+   "_by": "gokul"
+  },
+  "2026-11-23|mwt3v3h06lhg": {
+   "id": "mwt3v3h06lhg",
+   "date": "2026-11-23",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 3,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "amt": 510,
+   "_at": "2026-11-23T10:11:28.165Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|mwui0u93er1i": {
+   "id": "mwui0u93er1i",
+   "date": "2026-11-24",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 4,
+   "dirty": 0,
+   "damage": 0,
+   "amt": 440,
+   "_at": "2026-11-24T09:35:44.607Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|mwui1sro5x85": {
+   "id": "mwui1sro5x85",
+   "date": "2026-11-24",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 1,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "amt": 200,
+   "_at": "2026-11-24T09:35:52.608Z",
+   "_by": "gokul"
+  },
+  "2026-11-24|mwumbuf1wy80": {
+   "id": "mwumbuf1wy80",
+   "date": "2026-11-24",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 2,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "amt": 400,
+   "_at": "2026-11-24T11:35:37.798Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|mwvuxiaycpce": {
+   "id": "mwvuxiaycpce",
+   "date": "2026-11-25",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 1,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 1,
+   "amt": 250,
+   "_at": "2026-11-25T08:24:20.027Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|mwvw6t5vbcu8": {
+   "id": "mwvw6t5vbcu8",
+   "date": "2026-11-25",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 5,
+   "damage": 1,
+   "amt": 780,
+   "_at": "2026-11-25T08:59:41.287Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|mwvw78zkpga6": {
+   "id": "mwvw78zkpga6",
+   "date": "2026-11-25",
+   "buyer": "",
+   "pay": "GPay",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 1,
+   "damage": 1,
+   "amt": 220,
+   "_at": "2026-11-25T08:59:51.834Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|mwvxv3ovx343": {
+   "id": "mwvxv3ovx343",
+   "date": "2026-11-25",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 1,
+   "dirty": 0,
+   "damage": 1,
+   "amt": 190,
+   "_at": "2026-11-25T09:46:27.857Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|mwvxveu1prot": {
+   "id": "mwvxveu1prot",
+   "date": "2026-11-25",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 2,
+   "dirty": 0,
+   "damage": 15,
+   "amt": 1420,
+   "_at": "2026-11-25T09:47:30.087Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|mwvxwr3wnd1t": {
+   "id": "mwvxwr3wnd1t",
+   "date": "2026-11-25",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 1,
+   "dirty": 0,
+   "damage": 0,
+   "amt": 110,
+   "_at": "2026-11-25T09:47:38.090Z",
+   "_by": "gokul"
+  },
+  "2026-11-25|mwvzv0eo08ok": {
+   "id": "mwvzv0eo08ok",
+   "date": "2026-11-25",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 2,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "amt": 340,
+   "_at": "2026-11-25T10:42:17.380Z",
+   "_by": "gokul"
+  },
+  "2026-11-26|mwx8c8aht0k0": {
+   "id": "mwx8c8aht0k0",
+   "date": "2026-11-26",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 8,
+   "damage": 0,
+   "amt": 1120,
+   "_at": "2026-11-26T07:27:44.102Z",
+   "_by": "gokul"
+  },
+  "2026-11-26|mwx9w72lnayj": {
+   "id": "mwx9w72lnayj",
+   "date": "2026-11-26",
+   "buyer": "",
+   "pay": "GPay",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 5,
+   "amt": 400,
+   "_at": "2026-11-26T08:11:11.813Z",
+   "_by": "gokul"
+  },
+  "2026-11-26|mwx9wryh9zg1": {
+   "id": "mwx9wryh9zg1",
+   "date": "2026-11-26",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 1,
+   "damage": 1,
+   "amt": 220,
+   "_at": "2026-11-26T08:11:21.710Z",
+   "_by": "gokul"
+  },
+  "2026-11-26|mwxbso1v09it": {
+   "id": "mwxbso1v09it",
+   "date": "2026-11-26",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 6,
+   "damage": 1,
+   "amt": 920,
+   "_at": "2026-11-26T09:04:08.392Z",
+   "_by": "gokul"
+  },
+  "2026-11-26|mwxbt7huwb8j": {
+   "id": "mwxbt7huwb8j",
+   "date": "2026-11-26",
+   "buyer": "",
+   "pay": "GPay",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 2,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 2,
+   "damage": 0,
+   "amt": 620,
+   "_at": "2026-11-26T09:04:39.442Z",
+   "_by": "gokul"
+  }
+ },
+ "bills": {
+  "302": {
+   "id": "302",
+   "no": "302",
+   "date": "2026-11-23",
+   "name": "VR",
+   "a1": "Rasipuram",
+   "a2": "",
+   "a3": "",
+   "phone": "8870492510",
+   "veh": "Tn 28 BD 6094",
+   "w": [
+    "",
+    "49,50g",
+    ""
+   ],
+   "t": [
+    "",
+    "800",
+    ""
+   ],
+   "eggs": 24000,
+   "trays": 800,
+   "total": "",
+   "_at": "2026-11-23T16:09:55.233Z",
+   "_by": "admin"
+  },
+  "303": {
+   "id": "303",
+   "no": "303",
+   "date": "2026-11-23",
+   "name": "VR",
+   "a1": "Rasipuram",
+   "a2": "",
+   "a3": "",
+   "phone": "8870492510",
+   "veh": "Tn 28 BD 6094",
+   "w": [
+    "",
+    "49,50g",
+    ""
+   ],
+   "t": [
+    "",
+    "800",
+    ""
+   ],
+   "eggs": 24000,
+   "trays": 800,
+   "total": "",
+   "_at": "2026-11-25T15:45:57.153Z",
+   "_by": "admin"
+  },
+  "304": {
+   "id": "304",
+   "no": "304",
+   "date": "2026-11-26",
+   "name": "OhmSakthi EC",
+   "a1": "",
+   "a2": "",
+   "a3": "",
+   "phone": "",
+   "veh": "",
+   "w": [
+    "",
+    "",
+    ""
+   ],
+   "t": [
+    "250",
+    "",
+    ""
+   ],
+   "eggs": 7500,
+   "trays": 250,
+   "total": "",
+   "auto": true,
+   "pend": true,
+   "_at": "2026-11-26T12:19:11.006Z",
+   "_by": "gokul"
+  }
+ },
+ "maint": {}
+}

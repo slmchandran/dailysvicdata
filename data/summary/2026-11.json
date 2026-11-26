@@ -1,0 +1,266 @@
+{
+ "month": "2026-11",
+ "updated": "2026-11-26T15:00:55.271Z",
+ "total": {
+  "eggTrays": 23811,
+  "dispatchTrays": 10795,
+  "deaths": 113,
+  "feedTons": 276,
+  "vehInKg": 133330,
+  "vehOutKg": 3010,
+  "bills": 3,
+  "sales": 39
+ },
+ "days": {
+  "2026-11-16": {
+   "eggTrays": 2501,
+   "dispatchTrays": 0,
+   "deaths": 0,
+   "feedTons": 10,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-17": {
+   "eggTrays": 2462,
+   "dispatchTrays": 0,
+   "deaths": 14,
+   "feedTons": 13,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-18": {
+   "eggTrays": 2472,
+   "dispatchTrays": 0,
+   "deaths": 15,
+   "feedTons": 11,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-19": {
+   "eggTrays": 2489,
+   "dispatchTrays": 700,
+   "deaths": 7,
+   "feedTons": 12,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-20": {
+   "eggTrays": 483,
+   "dispatchTrays": 0,
+   "deaths": 10,
+   "feedTons": 9,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-21": {
+   "eggTrays": 2486,
+   "dispatchTrays": 450,
+   "deaths": 18,
+   "feedTons": 9,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-22": {
+   "eggTrays": 2486,
+   "dispatchTrays": 3600,
+   "deaths": 13,
+   "feedTons": 15,
+   "vehInKg": 0,
+   "vehOutKg": 1060,
+   "bills": 0,
+   "sales": 19
+  },
+  "2026-11-23": {
+   "eggTrays": 2526,
+   "dispatchTrays": 1100,
+   "deaths": 14,
+   "feedTons": 11,
+   "vehInKg": 5000,
+   "vehOutKg": 0,
+   "bills": 2,
+   "sales": 5
+  },
+  "2026-11-24": {
+   "eggTrays": 2474,
+   "dispatchTrays": 0,
+   "deaths": 10,
+   "feedTons": 9,
+   "vehInKg": 95380,
+   "vehOutKg": 1950,
+   "bills": 0,
+   "sales": 3
+  },
+  "2026-11-25": {
+   "eggTrays": 2495,
+   "dispatchTrays": 4695,
+   "deaths": 12,
+   "feedTons": 12,
+   "vehInKg": 1900,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 7
+  },
+  "2026-11-26": {
+   "eggTrays": 937,
+   "dispatchTrays": 250,
+   "deaths": 0,
+   "feedTons": 9,
+   "vehInKg": 31050,
+   "vehOutKg": 0,
+   "bills": 1,
+   "sales": 5
+  },
+  "2026-11-01": {
+   "eggTrays": 0,
+   "dispatchTrays": 0,
+   "deaths": 0,
+   "feedTons": 9,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-02": {
+   "eggTrays": 0,
+   "dispatchTrays": 0,
+   "deaths": 0,
+   "feedTons": 12,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-03": {
+   "eggTrays": 0,
+   "dispatchTrays": 0,
+   "deaths": 0,
+   "feedTons": 8,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-04": {
+   "eggTrays": 0,
+   "dispatchTrays": 0,
+   "deaths": 0,
+   "feedTons": 9,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-05": {
+   "eggTrays": 0,
+   "dispatchTrays": 0,
+   "deaths": 0,
+   "feedTons": 13,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-06": {
+   "eggTrays": 0,
+   "dispatchTrays": 0,
+   "deaths": 0,
+   "feedTons": 9,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-07": {
+   "eggTrays": 0,
+   "dispatchTrays": 0,
+   "deaths": 0,
+   "feedTons": 23,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-09": {
+   "eggTrays": 0,
+   "dispatchTrays": 0,
+   "deaths": 0,
+   "feedTons": 9,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-10": {
+   "eggTrays": 0,
+   "dispatchTrays": 0,
+   "deaths": 0,
+   "feedTons": 9,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-11": {
+   "eggTrays": 0,
+   "dispatchTrays": 0,
+   "deaths": 0,
+   "feedTons": 12,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-12": {
+   "eggTrays": 0,
+   "dispatchTrays": 0,
+   "deaths": 0,
+   "feedTons": 11,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-13": {
+   "eggTrays": 0,
+   "dispatchTrays": 0,
+   "deaths": 0,
+   "feedTons": 11,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-14": {
+   "eggTrays": 0,
+   "dispatchTrays": 0,
+   "deaths": 0,
+   "feedTons": 10,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  },
+  "2026-11-15": {
+   "eggTrays": 0,
+   "dispatchTrays": 0,
+   "deaths": 0,
+   "feedTons": 11,
+   "vehInKg": 0,
+   "vehOutKg": 0,
+   "bills": 0,
+   "sales": 0
+  }
+ }
+}
