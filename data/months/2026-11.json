@@ -3765,6 +3765,29 @@
    "amt": 280,
    "_at": "2026-11-27T09:52:10.251Z",
    "_by": "gokul"
+  },
+  "2026-11-27|mwytpzylwcqq": {
+   "id": "mwytpzylwcqq",
+   "date": "2026-11-27",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 2,
+   "damage": 2,
+   "amt": 440,
+   "_at": "2026-11-27T10:13:43.850Z",
+   "_by": "gokul"
   }
  },
  "bills": {
