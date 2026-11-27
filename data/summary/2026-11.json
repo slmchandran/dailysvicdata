@@ -1,6 +1,6 @@
 {
  "month": "2026-11",
- "updated": "2026-11-27T09:48:29.337Z",
+ "updated": "2026-11-27T09:52:12.734Z",
  "total": {
   "eggTrays": 25324,
   "dispatchTrays": 11895,
@@ -9,7 +9,7 @@
   "vehInKg": 133330,
   "vehOutKg": 11080,
   "bills": 4,
-  "sales": 46
+  "sales": 47
  },
  "days": {
   "2026-11-16": {
@@ -270,7 +270,7 @@
    "vehInKg": 0,
    "vehOutKg": 3070,
    "bills": 0,
-   "sales": 6
+   "sales": 7
   }
  }
 }
