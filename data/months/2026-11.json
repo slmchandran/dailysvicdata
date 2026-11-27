@@ -769,6 +769,18 @@
    "damage": 1,
    "_at": "2026-11-27T12:00:25.263Z",
    "_by": "gokul"
+  },
+  "2026-11-27|Layer 6|mwyxjl1ykl1u": {
+   "id": "mwyxjl1ykl1u",
+   "date": "2026-11-27",
+   "layer": "Layer 6",
+   "name": "MALLI MART",
+   "good": 520,
+   "small": 1,
+   "dirty": 10,
+   "damage": 1,
+   "_at": "2026-11-27T12:01:03.368Z",
+   "_by": "gokul"
   }
  },
  "stock": {
