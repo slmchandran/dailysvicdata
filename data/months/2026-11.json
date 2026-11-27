@@ -3560,6 +3560,29 @@
    "amt": 1030,
    "_at": "2026-11-27T08:21:44.698Z",
    "_by": "gokul"
+  },
+  "2026-11-27|mwypq5ny3b3y": {
+   "id": "mwypq5ny3b3y",
+   "date": "2026-11-27",
+   "buyer": "",
+   "pay": "GPay",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 6,
+   "amt": 480,
+   "_at": "2026-11-27T08:22:58.164Z",
+   "_by": "gokul"
   }
  },
  "bills": {
