@@ -757,6 +757,18 @@
    "damage": 0,
    "_at": "2026-11-27T11:52:55.035Z",
    "_by": "admin"
+  },
+  "2026-11-27|Layer 3|mwyxa7z56848": {
+   "id": "mwyxa7z56848",
+   "date": "2026-11-27",
+   "layer": "Layer 3",
+   "name": "Venkateswara EC",
+   "good": 780,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "_at": "2026-11-27T11:53:28.512Z",
+   "_by": "admin"
   }
  },
  "stock": {
