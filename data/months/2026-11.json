@@ -769,6 +769,18 @@
    "damage": 0,
    "_at": "2026-11-27T11:53:28.512Z",
    "_by": "admin"
+  },
+  "2026-11-27|Layer 6|mwyxage01ak2": {
+   "id": "mwyxage01ak2",
+   "date": "2026-11-27",
+   "layer": "Layer 6",
+   "name": "Venkateswara EC",
+   "good": 520,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "_at": "2026-11-27T11:53:41.613Z",
+   "_by": "admin"
   }
  },
  "stock": {
