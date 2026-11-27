@@ -752,11 +752,11 @@
    "layer": "Layer 1",
    "name": "MALLI MART",
    "good": 1260,
-   "small": 0,
-   "dirty": 0,
-   "damage": 0,
-   "_at": "2026-11-27T11:55:25.443Z",
-   "_by": "admin"
+   "small": 2,
+   "dirty": 12,
+   "damage": 2,
+   "_at": "2026-11-27T11:58:08.544Z",
+   "_by": "gokul"
   }
  },
  "stock": {
