@@ -3673,6 +3673,29 @@
    "amt": 1400,
    "_at": "2026-11-27T09:37:18.605Z",
    "_by": "gokul"
+  },
+  "2026-11-27|mwysfcosiefy": {
+   "id": "mwysfcosiefy",
+   "date": "2026-11-27",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 170,
+    "doubles": 200,
+    "small": 110,
+    "dirty": 140,
+    "damage": 80,
+    "_at": "2026-11-23T08:35:28.194Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 3,
+   "amt": 240,
+   "_at": "2026-11-27T09:37:25.801Z",
+   "_by": "gokul"
   }
  },
  "bills": {
