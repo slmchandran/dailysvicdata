@@ -1365,6 +1365,16 @@
    "size": "Big size",
    "_at": "2026-11-27T12:14:37.567Z",
    "_by": "gokul"
+  },
+  "2026-11-27|Layer 3": {
+   "date": "2026-11-27",
+   "layer": "Layer 3",
+   "ins": true,
+   "es": 459,
+   "ne": 472,
+   "size": "Big size",
+   "_at": "2026-11-27T12:28:26.739Z",
+   "_by": "gokul"
   }
  },
  "closing": {
