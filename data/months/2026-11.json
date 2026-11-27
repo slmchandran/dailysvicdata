@@ -665,6 +665,18 @@
    "damage": 1,
    "_at": "2026-11-26T12:23:38.085Z",
    "_by": "gokul"
+  },
+  "2026-11-26|Layer 2|mwxixjb2zhhk": {
+   "id": "mwxixjb2zhhk",
+   "date": "2026-11-26",
+   "layer": "Layer 2",
+   "name": "NP Egg Centre",
+   "good": 300,
+   "small": 0,
+   "dirty": 3,
+   "damage": 2,
+   "_at": "2026-11-26T12:24:07.324Z",
+   "_by": "gokul"
   }
  },
  "stock": {
