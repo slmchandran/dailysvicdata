@@ -740,11 +740,11 @@
    "layer": "Layer 2",
    "name": "MALLI MART",
    "good": 820,
-   "small": 0,
-   "dirty": 0,
-   "damage": 0,
-   "_at": "2026-11-27T11:53:17.775Z",
-   "_by": "admin"
+   "small": 3,
+   "dirty": 5,
+   "damage": 2,
+   "_at": "2026-11-27T11:58:22.313Z",
+   "_by": "gokul"
   },
   "2026-11-27|Layer 1|mwyx8v6ildm2": {
    "id": "mwyx8v6ildm2",
