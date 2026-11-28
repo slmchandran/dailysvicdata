@@ -441,6 +441,14 @@
    "mortality": 2,
    "_at": "2026-11-28T10:48:01.788Z",
    "_by": "gokul"
+  },
+  "2026-11-28|Layer 1": {
+   "shed": "Layer 1",
+   "date": "2026-11-28",
+   "batch": "17",
+   "mortality": 3,
+   "_at": "2026-11-28T10:50:07.739Z",
+   "_by": "gokul"
   }
  },
  "dispatch": {
