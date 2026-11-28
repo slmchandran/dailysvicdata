@@ -4420,6 +4420,32 @@
    "amt": 160,
    "_at": "2026-11-28T09:27:15.002Z",
    "_by": "gokul"
+  },
+  "2026-11-28|mx095ii19uw7": {
+   "id": "mx095ii19uw7",
+   "date": "2026-11-28",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 160,
+    "doubles": 180,
+    "small": 110,
+    "dirty": 130,
+    "damage": 80,
+    "empty": 5,
+    "_at": "2026-11-28T05:07:12.068Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 2,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "empty": 2,
+   "ep": 5,
+   "amt": 370,
+   "_at": "2026-11-28T10:13:38.245Z",
+   "_by": "gokul"
   }
  },
  "bills": {
