@@ -1,8 +1,8 @@
 {
  "month": "2026-11",
- "updated": "2026-11-28T11:41:16.142Z",
+ "updated": "2026-11-28T11:53:59.094Z",
  "total": {
-  "eggTrays": 28257,
+  "eggTrays": 28721,
   "dispatchTrays": 15005,
   "deaths": 148,
   "feedTons": 298,
@@ -133,7 +133,7 @@
    "sales": 12
   },
   "2026-11-28": {
-   "eggTrays": 493,
+   "eggTrays": 957,
    "dispatchTrays": 0,
    "deaths": 9,
    "feedTons": 13,
