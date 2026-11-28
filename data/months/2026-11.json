@@ -2902,6 +2902,17 @@
    "weight": 5000,
    "_at": "2026-11-27T08:47:34.051Z",
    "_by": "gokul"
+  },
+  "2026-11-28|mx08if027prd": {
+   "id": "mx08if027prd",
+   "date": "2026-11-28",
+   "number": "TN30CF5504",
+   "dir": "out",
+   "material": "DDGS",
+   "weight": 4000,
+   "to": "Sarashwathi",
+   "_at": "2026-11-28T09:57:33.254Z",
+   "_by": "gokul"
   }
  },
  "sales": {
