@@ -4107,6 +4107,37 @@
    "amt": 200,
    "_at": "2026-11-28T05:07:33.461Z",
    "_by": "gokul"
+  },
+  "2026-11-28|gokul": {
+   "id": "gokul",
+   "date": "2026-11-28",
+   "buyer": "Gokul",
+   "acct": 1,
+   "pay": "Credit",
+   "p": {
+    "good": 160,
+    "doubles": 180,
+    "small": 110,
+    "dirty": 130,
+    "damage": 80,
+    "empty": 5,
+    "_at": "2026-11-28T05:07:12.068Z",
+    "_by": "gokul"
+   },
+   "empty": 0,
+   "ep": 5,
+   "paid": 0,
+   "prev": 9370,
+   "ov": 1,
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 0,
+   "amt": 0,
+   "bal": 9370,
+   "_at": "2026-11-28T05:28:15.948Z",
+   "_by": "admin"
   }
  },
  "bills": {
