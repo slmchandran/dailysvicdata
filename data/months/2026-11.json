@@ -851,6 +851,20 @@
    "damage": 1,
    "_at": "2026-11-27T12:01:03.368Z",
    "_by": "gokul"
+  },
+  "2026-11-28|Layer 5|mx0dkja0wuzu": {
+   "id": "mx0dkja0wuzu",
+   "date": "2026-11-28",
+   "layer": "Layer 5",
+   "name": "OhmSakthi EC",
+   "vl": "TATA ACE BATTERY",
+   "vn": "",
+   "good": 250,
+   "small": 1.5,
+   "dirty": 2,
+   "damage": 1,
+   "_at": "2026-11-28T12:17:00.312Z",
+   "_by": "gokul"
   }
  },
  "stock": {
