@@ -4138,6 +4138,32 @@
    "bal": 11370,
    "_at": "2026-11-28T05:28:30.964Z",
    "_by": "admin"
+  },
+  "2026-11-28|mx053q959az8": {
+   "id": "mx053q959az8",
+   "date": "2026-11-28",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 160,
+    "doubles": 180,
+    "small": 110,
+    "dirty": 130,
+    "damage": 80,
+    "empty": 5,
+    "_at": "2026-11-28T05:07:12.068Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 2,
+   "damage": 1,
+   "empty": 0,
+   "ep": 5,
+   "amt": 340,
+   "_at": "2026-11-28T08:20:11.717Z",
+   "_by": "gokul"
   }
  },
  "bills": {
