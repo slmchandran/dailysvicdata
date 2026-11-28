@@ -1,10 +1,10 @@
 {
  "month": "2026-11",
- "updated": "2026-11-28T10:48:05.682Z",
+ "updated": "2026-11-28T10:48:10.262Z",
  "total": {
   "eggTrays": 27764,
   "dispatchTrays": 15005,
-  "deaths": 140,
+  "deaths": 142,
   "feedTons": 298,
   "vehInKg": 138330,
   "vehOutKg": 15080,
@@ -135,7 +135,7 @@
   "2026-11-28": {
    "eggTrays": 0,
    "dispatchTrays": 0,
-   "deaths": 1,
+   "deaths": 3,
    "feedTons": 13,
    "vehInKg": 5000,
    "vehOutKg": 4000,
