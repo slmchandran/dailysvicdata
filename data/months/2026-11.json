@@ -4185,5 +4185,14 @@
    "_by": "gokul"
   }
  },
- "maint": {}
+ "maint": {
+  "2026-11-28|mwzsvqcvjmpy": {
+   "id": "mwzsvqcvjmpy",
+   "date": "2026-11-28",
+   "type": "Other",
+   "desc": "L1, L2 Blue Tub lowered, to reduce the water pressure",
+   "_at": "2026-11-28T02:38:20.091Z",
+   "_by": "admin"
+  }
+ }
 }
