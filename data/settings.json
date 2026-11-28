@@ -80,12 +80,13 @@
  },
  "prices": {
   "current": {
-   "good": 170,
-   "doubles": 200,
+   "good": 160,
+   "doubles": 180,
    "small": 110,
-   "dirty": 140,
+   "dirty": 130,
    "damage": 80,
-   "_at": "2026-11-23T08:35:28.194Z",
+   "empty": 5,
+   "_at": "2026-11-28T05:07:12.068Z",
    "_by": "gokul"
   },
   "qr": {
