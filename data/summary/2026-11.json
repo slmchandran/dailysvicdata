@@ -1,10 +1,10 @@
 {
  "month": "2026-11",
- "updated": "2026-11-28T10:20:57.396Z",
+ "updated": "2026-11-28T10:48:05.682Z",
  "total": {
   "eggTrays": 27764,
   "dispatchTrays": 15005,
-  "deaths": 139,
+  "deaths": 140,
   "feedTons": 298,
   "vehInKg": 138330,
   "vehOutKg": 15080,
@@ -131,6 +131,16 @@
    "vehOutKg": 3070,
    "bills": 1,
    "sales": 12
+  },
+  "2026-11-28": {
+   "eggTrays": 0,
+   "dispatchTrays": 0,
+   "deaths": 1,
+   "feedTons": 13,
+   "vehInKg": 5000,
+   "vehOutKg": 4000,
+   "bills": 0,
+   "sales": 14
   },
   "2026-11-01": {
    "eggTrays": 0,
@@ -271,16 +281,6 @@
    "vehOutKg": 0,
    "bills": 0,
    "sales": 0
-  },
-  "2026-11-28": {
-   "eggTrays": 0,
-   "dispatchTrays": 0,
-   "deaths": 0,
-   "feedTons": 13,
-   "vehInKg": 5000,
-   "vehOutKg": 4000,
-   "bills": 0,
-   "sales": 14
   }
  }
 }
