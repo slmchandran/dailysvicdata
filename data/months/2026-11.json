@@ -4242,6 +4242,32 @@
    "amt": 390,
    "_at": "2026-11-28T08:45:22.700Z",
    "_by": "gokul"
+  },
+  "2026-11-28|mx060ep4bymx": {
+   "id": "mx060ep4bymx",
+   "date": "2026-11-28",
+   "buyer": "",
+   "pay": "Cash",
+   "p": {
+    "good": 160,
+    "doubles": 180,
+    "small": 110,
+    "dirty": 130,
+    "damage": 80,
+    "empty": 5,
+    "_at": "2026-11-28T05:07:12.068Z",
+    "_by": "gokul"
+   },
+   "good": 0,
+   "doubles": 0,
+   "small": 0,
+   "dirty": 0,
+   "damage": 3,
+   "empty": 0,
+   "ep": 5,
+   "amt": 240,
+   "_at": "2026-11-28T08:45:29.225Z",
+   "_by": "gokul"
   }
  },
  "bills": {
